@@ -1,0 +1,1540 @@
+Statistic Label	Year	Age Group	NUTS 3 Region	Sex	UNIT	VALUE
+Persons	2023	All ages	Border	Both sexes	Number	430893
+Persons	2023	All ages	Border	Male	Number	214219
+Persons	2023	All ages	Border	Female	Number	216674
+Persons	2023	All ages	Dublin	Both sexes	Number	1499179
+Persons	2023	All ages	Dublin	Male	Number	735290
+Persons	2023	All ages	Dublin	Female	Number	763889
+Persons	2023	All ages	Mid-East	Both sexes	Number	776202
+Persons	2023	All ages	Mid-East	Male	Number	385465
+Persons	2023	All ages	Mid-East	Female	Number	390737
+Persons	2023	All ages	Midland	Both sexes	Number	324626
+Persons	2023	All ages	Midland	Male	Number	161431
+Persons	2023	All ages	Midland	Female	Number	163195
+Persons	2023	All ages	Mid-West	Both sexes	Number	517337
+Persons	2023	All ages	Mid-West	Male	Number	255856
+Persons	2023	All ages	Mid-West	Female	Number	261481
+Persons	2023	All ages	South-East	Both sexes	Number	467589
+Persons	2023	All ages	South-East	Male	Number	230710
+Persons	2023	All ages	South-East	Female	Number	236879
+Persons	2023	All ages	South-West	Both sexes	Number	756254
+Persons	2023	All ages	South-West	Male	Number	374046
+Persons	2023	All ages	South-West	Female	Number	382208
+Persons	2023	All ages	West	Both sexes	Number	499315
+Persons	2023	All ages	West	Male	Number	247530
+Persons	2023	All ages	West	Female	Number	251785
+Persons	2023	All ages	Ireland	Both sexes	Number	5271395
+Persons	2023	All ages	Ireland	Male	Number	2604547
+Persons	2023	All ages	Ireland	Female	Number	2666848
+Persons	2023	0 - 4 years	Border	Both sexes	Number	26583
+Persons	2023	0 - 4 years	Border	Male	Number	13270
+Persons	2023	0 - 4 years	Border	Female	Number	13313
+Persons	2023	0 - 4 years	Dublin	Both sexes	Number	83398
+Persons	2023	0 - 4 years	Dublin	Male	Number	42705
+Persons	2023	0 - 4 years	Dublin	Female	Number	40693
+Persons	2023	0 - 4 years	Mid-East	Both sexes	Number	46046
+Persons	2023	0 - 4 years	Mid-East	Male	Number	23693
+Persons	2023	0 - 4 years	Mid-East	Female	Number	22353
+Persons	2023	0 - 4 years	Midland	Both sexes	Number	18554
+Persons	2023	0 - 4 years	Midland	Male	Number	9476
+Persons	2023	0 - 4 years	Midland	Female	Number	9078
+Persons	2023	0 - 4 years	Mid-West	Both sexes	Number	28716
+Persons	2023	0 - 4 years	Mid-West	Male	Number	14557
+Persons	2023	0 - 4 years	Mid-West	Female	Number	14159
+Persons	2023	0 - 4 years	South-East	Both sexes	Number	25951
+Persons	2023	0 - 4 years	South-East	Male	Number	13092
+Persons	2023	0 - 4 years	South-East	Female	Number	12859
+Persons	2023	0 - 4 years	South-West	Both sexes	Number	41076
+Persons	2023	0 - 4 years	South-West	Male	Number	20868
+Persons	2023	0 - 4 years	South-West	Female	Number	20208
+Persons	2023	0 - 4 years	West	Both sexes	Number	27683
+Persons	2023	0 - 4 years	West	Male	Number	14015
+Persons	2023	0 - 4 years	West	Female	Number	13668
+Persons	2023	0 - 4 years	Ireland	Both sexes	Number	298007
+Persons	2023	0 - 4 years	Ireland	Male	Number	151676
+Persons	2023	0 - 4 years	Ireland	Female	Number	146331
+Persons	2023	5 - 9 years	Border	Both sexes	Number	29001
+Persons	2023	5 - 9 years	Border	Male	Number	14690
+Persons	2023	5 - 9 years	Border	Female	Number	14311
+Persons	2023	5 - 9 years	Dublin	Both sexes	Number	92710
+Persons	2023	5 - 9 years	Dublin	Male	Number	47441
+Persons	2023	5 - 9 years	Dublin	Female	Number	45269
+Persons	2023	5 - 9 years	Mid-East	Both sexes	Number	54857
+Persons	2023	5 - 9 years	Mid-East	Male	Number	28232
+Persons	2023	5 - 9 years	Mid-East	Female	Number	26625
+Persons	2023	5 - 9 years	Midland	Both sexes	Number	22703
+Persons	2023	5 - 9 years	Midland	Male	Number	11614
+Persons	2023	5 - 9 years	Midland	Female	Number	11089
+Persons	2023	5 - 9 years	Mid-West	Both sexes	Number	32193
+Persons	2023	5 - 9 years	Mid-West	Male	Number	16521
+Persons	2023	5 - 9 years	Mid-West	Female	Number	15672
+Persons	2023	5 - 9 years	South-East	Both sexes	Number	29886
+Persons	2023	5 - 9 years	South-East	Male	Number	15305
+Persons	2023	5 - 9 years	South-East	Female	Number	14581
+Persons	2023	5 - 9 years	South-West	Both sexes	Number	48045
+Persons	2023	5 - 9 years	South-West	Male	Number	24750
+Persons	2023	5 - 9 years	South-West	Female	Number	23295
+Persons	2023	5 - 9 years	West	Both sexes	Number	32572
+Persons	2023	5 - 9 years	West	Male	Number	16658
+Persons	2023	5 - 9 years	West	Female	Number	15914
+Persons	2023	5 - 9 years	Ireland	Both sexes	Number	341967
+Persons	2023	5 - 9 years	Ireland	Male	Number	175211
+Persons	2023	5 - 9 years	Ireland	Female	Number	166756
+Persons	2023	10 - 14 years	Border	Both sexes	Number	33340
+Persons	2023	10 - 14 years	Border	Male	Number	16938
+Persons	2023	10 - 14 years	Border	Female	Number	16402
+Persons	2023	10 - 14 years	Dublin	Both sexes	Number	98734
+Persons	2023	10 - 14 years	Dublin	Male	Number	50373
+Persons	2023	10 - 14 years	Dublin	Female	Number	48361
+Persons	2023	10 - 14 years	Mid-East	Both sexes	Number	61971
+Persons	2023	10 - 14 years	Mid-East	Male	Number	31684
+Persons	2023	10 - 14 years	Mid-East	Female	Number	30287
+Persons	2023	10 - 14 years	Midland	Both sexes	Number	25026
+Persons	2023	10 - 14 years	Midland	Male	Number	12886
+Persons	2023	10 - 14 years	Midland	Female	Number	12140
+Persons	2023	10 - 14 years	Mid-West	Both sexes	Number	36915
+Persons	2023	10 - 14 years	Mid-West	Male	Number	18960
+Persons	2023	10 - 14 years	Mid-West	Female	Number	17955
+Persons	2023	10 - 14 years	South-East	Both sexes	Number	34636
+Persons	2023	10 - 14 years	South-East	Male	Number	17691
+Persons	2023	10 - 14 years	South-East	Female	Number	16945
+Persons	2023	10 - 14 years	South-West	Both sexes	Number	53541
+Persons	2023	10 - 14 years	South-West	Male	Number	27276
+Persons	2023	10 - 14 years	South-West	Female	Number	26265
+Persons	2023	10 - 14 years	West	Both sexes	Number	35304
+Persons	2023	10 - 14 years	West	Male	Number	18108
+Persons	2023	10 - 14 years	West	Female	Number	17196
+Persons	2023	10 - 14 years	Ireland	Both sexes	Number	379467
+Persons	2023	10 - 14 years	Ireland	Male	Number	193916
+Persons	2023	10 - 14 years	Ireland	Female	Number	185551
+Persons	2023	15 - 19 years	Border	Both sexes	Number	29278
+Persons	2023	15 - 19 years	Border	Male	Number	15393
+Persons	2023	15 - 19 years	Border	Female	Number	13885
+Persons	2023	15 - 19 years	Dublin	Both sexes	Number	87674
+Persons	2023	15 - 19 years	Dublin	Male	Number	44718
+Persons	2023	15 - 19 years	Dublin	Female	Number	42956
+Persons	2023	15 - 19 years	Mid-East	Both sexes	Number	56028
+Persons	2023	15 - 19 years	Mid-East	Male	Number	28807
+Persons	2023	15 - 19 years	Mid-East	Female	Number	27221
+Persons	2023	15 - 19 years	Midland	Both sexes	Number	22926
+Persons	2023	15 - 19 years	Midland	Male	Number	11647
+Persons	2023	15 - 19 years	Midland	Female	Number	11279
+Persons	2023	15 - 19 years	Mid-West	Both sexes	Number	34300
+Persons	2023	15 - 19 years	Mid-West	Male	Number	17410
+Persons	2023	15 - 19 years	Mid-West	Female	Number	16890
+Persons	2023	15 - 19 years	South-East	Both sexes	Number	32318
+Persons	2023	15 - 19 years	South-East	Male	Number	16932
+Persons	2023	15 - 19 years	South-East	Female	Number	15386
+Persons	2023	15 - 19 years	South-West	Both sexes	Number	48848
+Persons	2023	15 - 19 years	South-West	Male	Number	24917
+Persons	2023	15 - 19 years	South-West	Female	Number	23931
+Persons	2023	15 - 19 years	West	Both sexes	Number	32167
+Persons	2023	15 - 19 years	West	Male	Number	16810
+Persons	2023	15 - 19 years	West	Female	Number	15357
+Persons	2023	15 - 19 years	Ireland	Both sexes	Number	343539
+Persons	2023	15 - 19 years	Ireland	Male	Number	176634
+Persons	2023	15 - 19 years	Ireland	Female	Number	166905
+Persons	2023	20 - 24 years	Border	Both sexes	Number	23191
+Persons	2023	20 - 24 years	Border	Male	Number	12103
+Persons	2023	20 - 24 years	Border	Female	Number	11088
+Persons	2023	20 - 24 years	Dublin	Both sexes	Number	94810
+Persons	2023	20 - 24 years	Dublin	Male	Number	47340
+Persons	2023	20 - 24 years	Dublin	Female	Number	47470
+Persons	2023	20 - 24 years	Mid-East	Both sexes	Number	46945
+Persons	2023	20 - 24 years	Mid-East	Male	Number	24464
+Persons	2023	20 - 24 years	Mid-East	Female	Number	22481
+Persons	2023	20 - 24 years	Midland	Both sexes	Number	18751
+Persons	2023	20 - 24 years	Midland	Male	Number	9464
+Persons	2023	20 - 24 years	Midland	Female	Number	9287
+Persons	2023	20 - 24 years	Mid-West	Both sexes	Number	30464
+Persons	2023	20 - 24 years	Mid-West	Male	Number	15180
+Persons	2023	20 - 24 years	Mid-West	Female	Number	15284
+Persons	2023	20 - 24 years	South-East	Both sexes	Number	26987
+Persons	2023	20 - 24 years	South-East	Male	Number	14058
+Persons	2023	20 - 24 years	South-East	Female	Number	12929
+Persons	2023	20 - 24 years	South-West	Both sexes	Number	44070
+Persons	2023	20 - 24 years	South-West	Male	Number	22401
+Persons	2023	20 - 24 years	South-West	Female	Number	21669
+Persons	2023	20 - 24 years	West	Both sexes	Number	29219
+Persons	2023	20 - 24 years	West	Male	Number	14903
+Persons	2023	20 - 24 years	West	Female	Number	14316
+Persons	2023	20 - 24 years	Ireland	Both sexes	Number	314437
+Persons	2023	20 - 24 years	Ireland	Male	Number	159913
+Persons	2023	20 - 24 years	Ireland	Female	Number	154524
+Persons	2023	25 - 29 years	Border	Both sexes	Number	20491
+Persons	2023	25 - 29 years	Border	Male	Number	10402
+Persons	2023	25 - 29 years	Border	Female	Number	10089
+Persons	2023	25 - 29 years	Dublin	Both sexes	Number	113203
+Persons	2023	25 - 29 years	Dublin	Male	Number	56148
+Persons	2023	25 - 29 years	Dublin	Female	Number	57055
+Persons	2023	25 - 29 years	Mid-East	Both sexes	Number	38776
+Persons	2023	25 - 29 years	Mid-East	Male	Number	19650
+Persons	2023	25 - 29 years	Mid-East	Female	Number	19126
+Persons	2023	25 - 29 years	Midland	Both sexes	Number	16954
+Persons	2023	25 - 29 years	Midland	Male	Number	8605
+Persons	2023	25 - 29 years	Midland	Female	Number	8349
+Persons	2023	25 - 29 years	Mid-West	Both sexes	Number	28119
+Persons	2023	25 - 29 years	Mid-West	Male	Number	13957
+Persons	2023	25 - 29 years	Mid-West	Female	Number	14162
+Persons	2023	25 - 29 years	South-East	Both sexes	Number	23540
+Persons	2023	25 - 29 years	South-East	Male	Number	11709
+Persons	2023	25 - 29 years	South-East	Female	Number	11831
+Persons	2023	25 - 29 years	South-West	Both sexes	Number	42107
+Persons	2023	25 - 29 years	South-West	Male	Number	21118
+Persons	2023	25 - 29 years	South-West	Female	Number	20989
+Persons	2023	25 - 29 years	West	Both sexes	Number	26369
+Persons	2023	25 - 29 years	West	Male	Number	13370
+Persons	2023	25 - 29 years	West	Female	Number	12999
+Persons	2023	25 - 29 years	Ireland	Both sexes	Number	309559
+Persons	2023	25 - 29 years	Ireland	Male	Number	154959
+Persons	2023	25 - 29 years	Ireland	Female	Number	154600
+Persons	2023	30 - 34 years	Border	Both sexes	Number	23041
+Persons	2023	30 - 34 years	Border	Male	Number	11074
+Persons	2023	30 - 34 years	Border	Female	Number	11967
+Persons	2023	30 - 34 years	Dublin	Both sexes	Number	121853
+Persons	2023	30 - 34 years	Dublin	Male	Number	60057
+Persons	2023	30 - 34 years	Dublin	Female	Number	61796
+Persons	2023	30 - 34 years	Mid-East	Both sexes	Number	44447
+Persons	2023	30 - 34 years	Mid-East	Male	Number	21353
+Persons	2023	30 - 34 years	Mid-East	Female	Number	23094
+Persons	2023	30 - 34 years	Midland	Both sexes	Number	18922
+Persons	2023	30 - 34 years	Midland	Male	Number	9147
+Persons	2023	30 - 34 years	Midland	Female	Number	9775
+Persons	2023	30 - 34 years	Mid-West	Both sexes	Number	29955
+Persons	2023	30 - 34 years	Mid-West	Male	Number	14413
+Persons	2023	30 - 34 years	Mid-West	Female	Number	15542
+Persons	2023	30 - 34 years	South-East	Both sexes	Number	26503
+Persons	2023	30 - 34 years	South-East	Male	Number	12726
+Persons	2023	30 - 34 years	South-East	Female	Number	13777
+Persons	2023	30 - 34 years	South-West	Both sexes	Number	45726
+Persons	2023	30 - 34 years	South-West	Male	Number	22157
+Persons	2023	30 - 34 years	South-West	Female	Number	23569
+Persons	2023	30 - 34 years	West	Both sexes	Number	28862
+Persons	2023	30 - 34 years	West	Male	Number	13830
+Persons	2023	30 - 34 years	West	Female	Number	15032
+Persons	2023	30 - 34 years	Ireland	Both sexes	Number	339309
+Persons	2023	30 - 34 years	Ireland	Male	Number	164757
+Persons	2023	30 - 34 years	Ireland	Female	Number	174552
+Persons	2023	35 - 39 years	Border	Both sexes	Number	28416
+Persons	2023	35 - 39 years	Border	Male	Number	13448
+Persons	2023	35 - 39 years	Border	Female	Number	14968
+Persons	2023	35 - 39 years	Dublin	Both sexes	Number	124419
+Persons	2023	35 - 39 years	Dublin	Male	Number	60856
+Persons	2023	35 - 39 years	Dublin	Female	Number	63563
+Persons	2023	35 - 39 years	Mid-East	Both sexes	Number	55605
+Persons	2023	35 - 39 years	Mid-East	Male	Number	26268
+Persons	2023	35 - 39 years	Mid-East	Female	Number	29337
+Persons	2023	35 - 39 years	Midland	Both sexes	Number	23691
+Persons	2023	35 - 39 years	Midland	Male	Number	11230
+Persons	2023	35 - 39 years	Midland	Female	Number	12461
+Persons	2023	35 - 39 years	Mid-West	Both sexes	Number	35131
+Persons	2023	35 - 39 years	Mid-West	Male	Number	16625
+Persons	2023	35 - 39 years	Mid-West	Female	Number	18506
+Persons	2023	35 - 39 years	South-East	Both sexes	Number	31373
+Persons	2023	35 - 39 years	South-East	Male	Number	14660
+Persons	2023	35 - 39 years	South-East	Female	Number	16713
+Persons	2023	35 - 39 years	South-West	Both sexes	Number	53074
+Persons	2023	35 - 39 years	South-West	Male	Number	25265
+Persons	2023	35 - 39 years	South-West	Female	Number	27809
+Persons	2023	35 - 39 years	West	Both sexes	Number	34253
+Persons	2023	35 - 39 years	West	Male	Number	16148
+Persons	2023	35 - 39 years	West	Female	Number	18105
+Persons	2023	35 - 39 years	Ireland	Both sexes	Number	385962
+Persons	2023	35 - 39 years	Ireland	Male	Number	184500
+Persons	2023	35 - 39 years	Ireland	Female	Number	201462
+Persons	2023	40 - 44 years	Border	Both sexes	Number	32041
+Persons	2023	40 - 44 years	Border	Male	Number	15426
+Persons	2023	40 - 44 years	Border	Female	Number	16615
+Persons	2023	40 - 44 years	Dublin	Both sexes	Number	127670
+Persons	2023	40 - 44 years	Dublin	Male	Number	62853
+Persons	2023	40 - 44 years	Dublin	Female	Number	64817
+Persons	2023	40 - 44 years	Mid-East	Both sexes	Number	64827
+Persons	2023	40 - 44 years	Mid-East	Male	Number	31263
+Persons	2023	40 - 44 years	Mid-East	Female	Number	33564
+Persons	2023	40 - 44 years	Midland	Both sexes	Number	26309
+Persons	2023	40 - 44 years	Midland	Male	Number	12804
+Persons	2023	40 - 44 years	Midland	Female	Number	13505
+Persons	2023	40 - 44 years	Mid-West	Both sexes	Number	39775
+Persons	2023	40 - 44 years	Mid-West	Male	Number	19067
+Persons	2023	40 - 44 years	Mid-West	Female	Number	20708
+Persons	2023	40 - 44 years	South-East	Both sexes	Number	35819
+Persons	2023	40 - 44 years	South-East	Male	Number	17182
+Persons	2023	40 - 44 years	South-East	Female	Number	18637
+Persons	2023	40 - 44 years	South-West	Both sexes	Number	60125
+Persons	2023	40 - 44 years	South-West	Male	Number	29111
+Persons	2023	40 - 44 years	South-West	Female	Number	31014
+Persons	2023	40 - 44 years	West	Both sexes	Number	39142
+Persons	2023	40 - 44 years	West	Male	Number	18835
+Persons	2023	40 - 44 years	West	Female	Number	20307
+Persons	2023	40 - 44 years	Ireland	Both sexes	Number	425708
+Persons	2023	40 - 44 years	Ireland	Male	Number	206541
+Persons	2023	40 - 44 years	Ireland	Female	Number	219167
+Persons	2023	45 - 49 years	Border	Both sexes	Number	30515
+Persons	2023	45 - 49 years	Border	Male	Number	15114
+Persons	2023	45 - 49 years	Border	Female	Number	15401
+Persons	2023	45 - 49 years	Dublin	Both sexes	Number	106803
+Persons	2023	45 - 49 years	Dublin	Male	Number	52621
+Persons	2023	45 - 49 years	Dublin	Female	Number	54182
+Persons	2023	45 - 49 years	Mid-East	Both sexes	Number	60256
+Persons	2023	45 - 49 years	Mid-East	Male	Number	29627
+Persons	2023	45 - 49 years	Mid-East	Female	Number	30629
+Persons	2023	45 - 49 years	Midland	Both sexes	Number	23580
+Persons	2023	45 - 49 years	Midland	Male	Number	11683
+Persons	2023	45 - 49 years	Midland	Female	Number	11897
+Persons	2023	45 - 49 years	Mid-West	Both sexes	Number	37298
+Persons	2023	45 - 49 years	Mid-West	Male	Number	18591
+Persons	2023	45 - 49 years	Mid-West	Female	Number	18707
+Persons	2023	45 - 49 years	South-East	Both sexes	Number	33945
+Persons	2023	45 - 49 years	South-East	Male	Number	16443
+Persons	2023	45 - 49 years	South-East	Female	Number	17502
+Persons	2023	45 - 49 years	South-West	Both sexes	Number	55539
+Persons	2023	45 - 49 years	South-West	Male	Number	27461
+Persons	2023	45 - 49 years	South-West	Female	Number	28078
+Persons	2023	45 - 49 years	West	Both sexes	Number	35947
+Persons	2023	45 - 49 years	West	Male	Number	17728
+Persons	2023	45 - 49 years	West	Female	Number	18219
+Persons	2023	45 - 49 years	Ireland	Both sexes	Number	383883
+Persons	2023	45 - 49 years	Ireland	Male	Number	189268
+Persons	2023	45 - 49 years	Ireland	Female	Number	194615
+Persons	2023	50 - 54 years	Border	Both sexes	Number	29141
+Persons	2023	50 - 54 years	Border	Male	Number	14690
+Persons	2023	50 - 54 years	Border	Female	Number	14451
+Persons	2023	50 - 54 years	Dublin	Both sexes	Number	92864
+Persons	2023	50 - 54 years	Dublin	Male	Number	46041
+Persons	2023	50 - 54 years	Dublin	Female	Number	46823
+Persons	2023	50 - 54 years	Mid-East	Both sexes	Number	55431
+Persons	2023	50 - 54 years	Mid-East	Male	Number	27738
+Persons	2023	50 - 54 years	Mid-East	Female	Number	27693
+Persons	2023	50 - 54 years	Midland	Both sexes	Number	21775
+Persons	2023	50 - 54 years	Midland	Male	Number	11013
+Persons	2023	50 - 54 years	Midland	Female	Number	10762
+Persons	2023	50 - 54 years	Mid-West	Both sexes	Number	34879
+Persons	2023	50 - 54 years	Mid-West	Male	Number	17538
+Persons	2023	50 - 54 years	Mid-West	Female	Number	17341
+Persons	2023	50 - 54 years	South-East	Both sexes	Number	32252
+Persons	2023	50 - 54 years	South-East	Male	Number	15887
+Persons	2023	50 - 54 years	South-East	Female	Number	16365
+Persons	2023	50 - 54 years	South-West	Both sexes	Number	51241
+Persons	2023	50 - 54 years	South-West	Male	Number	25625
+Persons	2023	50 - 54 years	South-West	Female	Number	25616
+Persons	2023	50 - 54 years	West	Both sexes	Number	33409
+Persons	2023	50 - 54 years	West	Male	Number	16602
+Persons	2023	50 - 54 years	West	Female	Number	16807
+Persons	2023	50 - 54 years	Ireland	Both sexes	Number	350992
+Persons	2023	50 - 54 years	Ireland	Male	Number	175134
+Persons	2023	50 - 54 years	Ireland	Female	Number	175858
+Persons	2023	55 - 59 years	Border	Both sexes	Number	27080
+Persons	2023	55 - 59 years	Border	Male	Number	13487
+Persons	2023	55 - 59 years	Border	Female	Number	13593
+Persons	2023	55 - 59 years	Dublin	Both sexes	Number	80528
+Persons	2023	55 - 59 years	Dublin	Male	Number	38836
+Persons	2023	55 - 59 years	Dublin	Female	Number	41692
+Persons	2023	55 - 59 years	Mid-East	Both sexes	Number	46887
+Persons	2023	55 - 59 years	Mid-East	Male	Number	23351
+Persons	2023	55 - 59 years	Mid-East	Female	Number	23536
+Persons	2023	55 - 59 years	Midland	Both sexes	Number	19726
+Persons	2023	55 - 59 years	Midland	Male	Number	9873
+Persons	2023	55 - 59 years	Midland	Female	Number	9853
+Persons	2023	55 - 59 years	Mid-West	Both sexes	Number	32602
+Persons	2023	55 - 59 years	Mid-West	Male	Number	16275
+Persons	2023	55 - 59 years	Mid-West	Female	Number	16327
+Persons	2023	55 - 59 years	South-East	Both sexes	Number	29979
+Persons	2023	55 - 59 years	South-East	Male	Number	14626
+Persons	2023	55 - 59 years	South-East	Female	Number	15353
+Persons	2023	55 - 59 years	South-West	Both sexes	Number	47143
+Persons	2023	55 - 59 years	South-West	Male	Number	23307
+Persons	2023	55 - 59 years	South-West	Female	Number	23836
+Persons	2023	55 - 59 years	West	Both sexes	Number	30938
+Persons	2023	55 - 59 years	West	Male	Number	15557
+Persons	2023	55 - 59 years	West	Female	Number	15381
+Persons	2023	55 - 59 years	Ireland	Both sexes	Number	314883
+Persons	2023	55 - 59 years	Ireland	Male	Number	155312
+Persons	2023	55 - 59 years	Ireland	Female	Number	159571
+Persons	2023	60 - 64 years	Border	Both sexes	Number	25183
+Persons	2023	60 - 64 years	Border	Male	Number	12557
+Persons	2023	60 - 64 years	Border	Female	Number	12626
+Persons	2023	60 - 64 years	Dublin	Both sexes	Number	72360
+Persons	2023	60 - 64 years	Dublin	Male	Number	34634
+Persons	2023	60 - 64 years	Dublin	Female	Number	37726
+Persons	2023	60 - 64 years	Mid-East	Both sexes	Number	39473
+Persons	2023	60 - 64 years	Mid-East	Male	Number	19588
+Persons	2023	60 - 64 years	Mid-East	Female	Number	19885
+Persons	2023	60 - 64 years	Midland	Both sexes	Number	17539
+Persons	2023	60 - 64 years	Midland	Male	Number	8798
+Persons	2023	60 - 64 years	Midland	Female	Number	8741
+Persons	2023	60 - 64 years	Mid-West	Both sexes	Number	29731
+Persons	2023	60 - 64 years	Mid-West	Male	Number	14902
+Persons	2023	60 - 64 years	Mid-West	Female	Number	14829
+Persons	2023	60 - 64 years	South-East	Both sexes	Number	27467
+Persons	2023	60 - 64 years	South-East	Male	Number	13348
+Persons	2023	60 - 64 years	South-East	Female	Number	14119
+Persons	2023	60 - 64 years	South-West	Both sexes	Number	42866
+Persons	2023	60 - 64 years	South-West	Male	Number	21289
+Persons	2023	60 - 64 years	South-West	Female	Number	21577
+Persons	2023	60 - 64 years	West	Both sexes	Number	28548
+Persons	2023	60 - 64 years	West	Male	Number	14204
+Persons	2023	60 - 64 years	West	Female	Number	14344
+Persons	2023	60 - 64 years	Ireland	Both sexes	Number	283167
+Persons	2023	60 - 64 years	Ireland	Male	Number	139320
+Persons	2023	60 - 64 years	Ireland	Female	Number	143847
+Persons	2023	65 - 69 years	Border	Both sexes	Number	22313
+Persons	2023	65 - 69 years	Border	Male	Number	11123
+Persons	2023	65 - 69 years	Border	Female	Number	11190
+Persons	2023	65 - 69 years	Dublin	Both sexes	Number	60306
+Persons	2023	65 - 69 years	Dublin	Male	Number	28521
+Persons	2023	65 - 69 years	Dublin	Female	Number	31785
+Persons	2023	65 - 69 years	Mid-East	Both sexes	Number	33328
+Persons	2023	65 - 69 years	Mid-East	Male	Number	16394
+Persons	2023	65 - 69 years	Mid-East	Female	Number	16934
+Persons	2023	65 - 69 years	Midland	Both sexes	Number	15157
+Persons	2023	65 - 69 years	Midland	Male	Number	7590
+Persons	2023	65 - 69 years	Midland	Female	Number	7567
+Persons	2023	65 - 69 years	Mid-West	Both sexes	Number	26620
+Persons	2023	65 - 69 years	Mid-West	Male	Number	13445
+Persons	2023	65 - 69 years	Mid-West	Female	Number	13175
+Persons	2023	65 - 69 years	South-East	Both sexes	Number	23349
+Persons	2023	65 - 69 years	South-East	Male	Number	11753
+Persons	2023	65 - 69 years	South-East	Female	Number	11596
+Persons	2023	65 - 69 years	South-West	Both sexes	Number	37159
+Persons	2023	65 - 69 years	South-West	Male	Number	18437
+Persons	2023	65 - 69 years	South-West	Female	Number	18722
+Persons	2023	65 - 69 years	West	Both sexes	Number	25909
+Persons	2023	65 - 69 years	West	Male	Number	12798
+Persons	2023	65 - 69 years	West	Female	Number	13111
+Persons	2023	65 - 69 years	Ireland	Both sexes	Number	244141
+Persons	2023	65 - 69 years	Ireland	Male	Number	120061
+Persons	2023	65 - 69 years	Ireland	Female	Number	124080
+Persons	2023	70 - 74 years	Border	Both sexes	Number	19302
+Persons	2023	70 - 74 years	Border	Male	Number	9671
+Persons	2023	70 - 74 years	Border	Female	Number	9631
+Persons	2023	70 - 74 years	Dublin	Both sexes	Number	51749
+Persons	2023	70 - 74 years	Dublin	Male	Number	24120
+Persons	2023	70 - 74 years	Dublin	Female	Number	27629
+Persons	2023	70 - 74 years	Mid-East	Both sexes	Number	27764
+Persons	2023	70 - 74 years	Mid-East	Male	Number	13558
+Persons	2023	70 - 74 years	Mid-East	Female	Number	14206
+Persons	2023	70 - 74 years	Midland	Both sexes	Number	12662
+Persons	2023	70 - 74 years	Midland	Male	Number	6345
+Persons	2023	70 - 74 years	Midland	Female	Number	6317
+Persons	2023	70 - 74 years	Mid-West	Both sexes	Number	23035
+Persons	2023	70 - 74 years	Mid-West	Male	Number	11456
+Persons	2023	70 - 74 years	Mid-West	Female	Number	11579
+Persons	2023	70 - 74 years	South-East	Both sexes	Number	20002
+Persons	2023	70 - 74 years	South-East	Male	Number	9830
+Persons	2023	70 - 74 years	South-East	Female	Number	10172
+Persons	2023	70 - 74 years	South-West	Both sexes	Number	32066
+Persons	2023	70 - 74 years	South-West	Male	Number	15876
+Persons	2023	70 - 74 years	South-West	Female	Number	16190
+Persons	2023	70 - 74 years	West	Both sexes	Number	22093
+Persons	2023	70 - 74 years	West	Male	Number	10986
+Persons	2023	70 - 74 years	West	Female	Number	11107
+Persons	2023	70 - 74 years	Ireland	Both sexes	Number	208673
+Persons	2023	70 - 74 years	Ireland	Male	Number	101842
+Persons	2023	70 - 74 years	Ireland	Female	Number	106831
+Persons	2023	75 - 79 years	Border	Both sexes	Number	14874
+Persons	2023	75 - 79 years	Border	Male	Number	7328
+Persons	2023	75 - 79 years	Border	Female	Number	7546
+Persons	2023	75 - 79 years	Dublin	Both sexes	Number	39690
+Persons	2023	75 - 79 years	Dublin	Male	Number	18150
+Persons	2023	75 - 79 years	Dublin	Female	Number	21540
+Persons	2023	75 - 79 years	Mid-East	Both sexes	Number	21381
+Persons	2023	75 - 79 years	Mid-East	Male	Number	10306
+Persons	2023	75 - 79 years	Mid-East	Female	Number	11075
+Persons	2023	75 - 79 years	Midland	Both sexes	Number	9621
+Persons	2023	75 - 79 years	Midland	Male	Number	4622
+Persons	2023	75 - 79 years	Midland	Female	Number	4999
+Persons	2023	75 - 79 years	Mid-West	Both sexes	Number	17688
+Persons	2023	75 - 79 years	Mid-West	Male	Number	8463
+Persons	2023	75 - 79 years	Mid-West	Female	Number	9225
+Persons	2023	75 - 79 years	South-East	Both sexes	Number	15636
+Persons	2023	75 - 79 years	South-East	Male	Number	7657
+Persons	2023	75 - 79 years	South-East	Female	Number	7979
+Persons	2023	75 - 79 years	South-West	Both sexes	Number	24950
+Persons	2023	75 - 79 years	South-West	Male	Number	12136
+Persons	2023	75 - 79 years	South-West	Female	Number	12814
+Persons	2023	75 - 79 years	West	Both sexes	Number	16718
+Persons	2023	75 - 79 years	West	Male	Number	8337
+Persons	2023	75 - 79 years	West	Female	Number	8381
+Persons	2023	75 - 79 years	Ireland	Both sexes	Number	160558
+Persons	2023	75 - 79 years	Ireland	Male	Number	76999
+Persons	2023	75 - 79 years	Ireland	Female	Number	83559
+Persons	2023	80 - 84 years	Border	Both sexes	Number	9164
+Persons	2023	80 - 84 years	Border	Male	Number	4423
+Persons	2023	80 - 84 years	Border	Female	Number	4741
+Persons	2023	80 - 84 years	Dublin	Both sexes	Number	26237
+Persons	2023	80 - 84 years	Dublin	Male	Number	11214
+Persons	2023	80 - 84 years	Dublin	Female	Number	15023
+Persons	2023	80 - 84 years	Mid-East	Both sexes	Number	12415
+Persons	2023	80 - 84 years	Mid-East	Male	Number	5732
+Persons	2023	80 - 84 years	Mid-East	Female	Number	6683
+Persons	2023	80 - 84 years	Midland	Both sexes	Number	5745
+Persons	2023	80 - 84 years	Midland	Male	Number	2634
+Persons	2023	80 - 84 years	Midland	Female	Number	3111
+Persons	2023	80 - 84 years	Mid-West	Both sexes	Number	10854
+Persons	2023	80 - 84 years	Mid-West	Male	Number	4980
+Persons	2023	80 - 84 years	Mid-West	Female	Number	5874
+Persons	2023	80 - 84 years	South-East	Both sexes	Number	9744
+Persons	2023	80 - 84 years	South-East	Male	Number	4640
+Persons	2023	80 - 84 years	South-East	Female	Number	5104
+Persons	2023	80 - 84 years	South-West	Both sexes	Number	15315
+Persons	2023	80 - 84 years	South-West	Male	Number	6829
+Persons	2023	80 - 84 years	South-West	Female	Number	8486
+Persons	2023	80 - 84 years	West	Both sexes	Number	10635
+Persons	2023	80 - 84 years	West	Male	Number	4975
+Persons	2023	80 - 84 years	West	Female	Number	5660
+Persons	2023	80 - 84 years	Ireland	Both sexes	Number	100109
+Persons	2023	80 - 84 years	Ireland	Male	Number	45427
+Persons	2023	80 - 84 years	Ireland	Female	Number	54682
+Persons	2023	85 years and over	Border	Both sexes	Number	7939
+Persons	2023	85 years and over	Border	Male	Number	3082
+Persons	2023	85 years and over	Border	Female	Number	4857
+Persons	2023	85 years and over	Dublin	Both sexes	Number	24171
+Persons	2023	85 years and over	Dublin	Male	Number	8662
+Persons	2023	85 years and over	Dublin	Female	Number	15509
+Persons	2023	85 years and over	Mid-East	Both sexes	Number	9765
+Persons	2023	85 years and over	Mid-East	Male	Number	3757
+Persons	2023	85 years and over	Mid-East	Female	Number	6008
+Persons	2023	85 years and over	Midland	Both sexes	Number	4985
+Persons	2023	85 years and over	Midland	Male	Number	2000
+Persons	2023	85 years and over	Midland	Female	Number	2985
+Persons	2023	85 years and over	Mid-West	Both sexes	Number	9062
+Persons	2023	85 years and over	Mid-West	Male	Number	3516
+Persons	2023	85 years and over	Mid-West	Female	Number	5546
+Persons	2023	85 years and over	South-East	Both sexes	Number	8202
+Persons	2023	85 years and over	South-East	Male	Number	3171
+Persons	2023	85 years and over	South-East	Female	Number	5031
+Persons	2023	85 years and over	South-West	Both sexes	Number	13363
+Persons	2023	85 years and over	South-West	Male	Number	5223
+Persons	2023	85 years and over	South-West	Female	Number	8140
+Persons	2023	85 years and over	West	Both sexes	Number	9547
+Persons	2023	85 years and over	West	Male	Number	3666
+Persons	2023	85 years and over	West	Female	Number	5881
+Persons	2023	85 years and over	Ireland	Both sexes	Number	87034
+Persons	2023	85 years and over	Ireland	Male	Number	33077
+Persons	2023	85 years and over	Ireland	Female	Number	53957
+Persons	2024	All ages	Border	Both sexes	Number	441644
+Persons	2024	All ages	Border	Male	Number	219762
+Persons	2024	All ages	Border	Female	Number	221882
+Persons	2024	All ages	Dublin	Both sexes	Number	1519751
+Persons	2024	All ages	Dublin	Male	Number	745562
+Persons	2024	All ages	Dublin	Female	Number	774189
+Persons	2024	All ages	Mid-East	Both sexes	Number	782429
+Persons	2024	All ages	Mid-East	Male	Number	389095
+Persons	2024	All ages	Mid-East	Female	Number	393334
+Persons	2024	All ages	Midland	Both sexes	Number	331530
+Persons	2024	All ages	Midland	Male	Number	164458
+Persons	2024	All ages	Midland	Female	Number	167072
+Persons	2024	All ages	Mid-West	Both sexes	Number	529583
+Persons	2024	All ages	Mid-West	Male	Number	260831
+Persons	2024	All ages	Mid-West	Female	Number	268752
+Persons	2024	All ages	South-East	Both sexes	Number	473064
+Persons	2024	All ages	South-East	Male	Number	234200
+Persons	2024	All ages	South-East	Female	Number	238864
+Persons	2024	All ages	South-West	Both sexes	Number	769764
+Persons	2024	All ages	South-West	Male	Number	379627
+Persons	2024	All ages	South-West	Female	Number	390137
+Persons	2024	All ages	West	Both sexes	Number	503916
+Persons	2024	All ages	West	Male	Number	249840
+Persons	2024	All ages	West	Female	Number	254076
+Persons	2024	All ages	Ireland	Both sexes	Number	5351681
+Persons	2024	All ages	Ireland	Male	Number	2643375
+Persons	2024	All ages	Ireland	Female	Number	2708306
+Persons	2024	0 - 4 years	Border	Both sexes	Number	25903
+Persons	2024	0 - 4 years	Border	Male	Number	13116
+Persons	2024	0 - 4 years	Border	Female	Number	12787
+Persons	2024	0 - 4 years	Dublin	Both sexes	Number	84269
+Persons	2024	0 - 4 years	Dublin	Male	Number	42950
+Persons	2024	0 - 4 years	Dublin	Female	Number	41319
+Persons	2024	0 - 4 years	Mid-East	Both sexes	Number	45362
+Persons	2024	0 - 4 years	Mid-East	Male	Number	23320
+Persons	2024	0 - 4 years	Mid-East	Female	Number	22042
+Persons	2024	0 - 4 years	Midland	Both sexes	Number	18054
+Persons	2024	0 - 4 years	Midland	Male	Number	9239
+Persons	2024	0 - 4 years	Midland	Female	Number	8815
+Persons	2024	0 - 4 years	Mid-West	Both sexes	Number	27931
+Persons	2024	0 - 4 years	Mid-West	Male	Number	14166
+Persons	2024	0 - 4 years	Mid-West	Female	Number	13765
+Persons	2024	0 - 4 years	South-East	Both sexes	Number	24918
+Persons	2024	0 - 4 years	South-East	Male	Number	12543
+Persons	2024	0 - 4 years	South-East	Female	Number	12375
+Persons	2024	0 - 4 years	South-West	Both sexes	Number	39506
+Persons	2024	0 - 4 years	South-West	Male	Number	19988
+Persons	2024	0 - 4 years	South-West	Female	Number	19518
+Persons	2024	0 - 4 years	West	Both sexes	Number	27688
+Persons	2024	0 - 4 years	West	Male	Number	13938
+Persons	2024	0 - 4 years	West	Female	Number	13750
+Persons	2024	0 - 4 years	Ireland	Both sexes	Number	293631
+Persons	2024	0 - 4 years	Ireland	Male	Number	149260
+Persons	2024	0 - 4 years	Ireland	Female	Number	144371
+Persons	2024	5 - 9 years	Border	Both sexes	Number	30235
+Persons	2024	5 - 9 years	Border	Male	Number	15410
+Persons	2024	5 - 9 years	Border	Female	Number	14825
+Persons	2024	5 - 9 years	Dublin	Both sexes	Number	92178
+Persons	2024	5 - 9 years	Dublin	Male	Number	47245
+Persons	2024	5 - 9 years	Dublin	Female	Number	44933
+Persons	2024	5 - 9 years	Mid-East	Both sexes	Number	52790
+Persons	2024	5 - 9 years	Mid-East	Male	Number	27271
+Persons	2024	5 - 9 years	Mid-East	Female	Number	25519
+Persons	2024	5 - 9 years	Midland	Both sexes	Number	21832
+Persons	2024	5 - 9 years	Midland	Male	Number	11206
+Persons	2024	5 - 9 years	Midland	Female	Number	10626
+Persons	2024	5 - 9 years	Mid-West	Both sexes	Number	32587
+Persons	2024	5 - 9 years	Mid-West	Male	Number	16505
+Persons	2024	5 - 9 years	Mid-West	Female	Number	16082
+Persons	2024	5 - 9 years	South-East	Both sexes	Number	29576
+Persons	2024	5 - 9 years	South-East	Male	Number	15038
+Persons	2024	5 - 9 years	South-East	Female	Number	14538
+Persons	2024	5 - 9 years	South-West	Both sexes	Number	47420
+Persons	2024	5 - 9 years	South-West	Male	Number	24333
+Persons	2024	5 - 9 years	South-West	Female	Number	23087
+Persons	2024	5 - 9 years	West	Both sexes	Number	31670
+Persons	2024	5 - 9 years	West	Male	Number	16135
+Persons	2024	5 - 9 years	West	Female	Number	15535
+Persons	2024	5 - 9 years	Ireland	Both sexes	Number	338288
+Persons	2024	5 - 9 years	Ireland	Male	Number	173143
+Persons	2024	5 - 9 years	Ireland	Female	Number	165145
+Persons	2024	10 - 14 years	Border	Both sexes	Number	34094
+Persons	2024	10 - 14 years	Border	Male	Number	17596
+Persons	2024	10 - 14 years	Border	Female	Number	16498
+Persons	2024	10 - 14 years	Dublin	Both sexes	Number	100316
+Persons	2024	10 - 14 years	Dublin	Male	Number	51385
+Persons	2024	10 - 14 years	Dublin	Female	Number	48931
+Persons	2024	10 - 14 years	Mid-East	Both sexes	Number	61354
+Persons	2024	10 - 14 years	Mid-East	Male	Number	31418
+Persons	2024	10 - 14 years	Mid-East	Female	Number	29936
+Persons	2024	10 - 14 years	Midland	Both sexes	Number	25017
+Persons	2024	10 - 14 years	Midland	Male	Number	12874
+Persons	2024	10 - 14 years	Midland	Female	Number	12143
+Persons	2024	10 - 14 years	Mid-West	Both sexes	Number	36912
+Persons	2024	10 - 14 years	Mid-West	Male	Number	18914
+Persons	2024	10 - 14 years	Mid-West	Female	Number	17998
+Persons	2024	10 - 14 years	South-East	Both sexes	Number	34296
+Persons	2024	10 - 14 years	South-East	Male	Number	17428
+Persons	2024	10 - 14 years	South-East	Female	Number	16868
+Persons	2024	10 - 14 years	South-West	Both sexes	Number	53593
+Persons	2024	10 - 14 years	South-West	Male	Number	27317
+Persons	2024	10 - 14 years	South-West	Female	Number	26276
+Persons	2024	10 - 14 years	West	Both sexes	Number	35242
+Persons	2024	10 - 14 years	West	Male	Number	18152
+Persons	2024	10 - 14 years	West	Female	Number	17090
+Persons	2024	10 - 14 years	Ireland	Both sexes	Number	380824
+Persons	2024	10 - 14 years	Ireland	Male	Number	195084
+Persons	2024	10 - 14 years	Ireland	Female	Number	185740
+Persons	2024	15 - 19 years	Border	Both sexes	Number	30561
+Persons	2024	15 - 19 years	Border	Male	Number	16064
+Persons	2024	15 - 19 years	Border	Female	Number	14497
+Persons	2024	15 - 19 years	Dublin	Both sexes	Number	88407
+Persons	2024	15 - 19 years	Dublin	Male	Number	45105
+Persons	2024	15 - 19 years	Dublin	Female	Number	43302
+Persons	2024	15 - 19 years	Mid-East	Both sexes	Number	58046
+Persons	2024	15 - 19 years	Mid-East	Male	Number	29902
+Persons	2024	15 - 19 years	Mid-East	Female	Number	28144
+Persons	2024	15 - 19 years	Midland	Both sexes	Number	24115
+Persons	2024	15 - 19 years	Midland	Male	Number	12370
+Persons	2024	15 - 19 years	Midland	Female	Number	11745
+Persons	2024	15 - 19 years	Mid-West	Both sexes	Number	36144
+Persons	2024	15 - 19 years	Mid-West	Male	Number	18591
+Persons	2024	15 - 19 years	Mid-West	Female	Number	17553
+Persons	2024	15 - 19 years	South-East	Both sexes	Number	34256
+Persons	2024	15 - 19 years	South-East	Male	Number	18305
+Persons	2024	15 - 19 years	South-East	Female	Number	15951
+Persons	2024	15 - 19 years	South-West	Both sexes	Number	51133
+Persons	2024	15 - 19 years	South-West	Male	Number	25825
+Persons	2024	15 - 19 years	South-West	Female	Number	25308
+Persons	2024	15 - 19 years	West	Both sexes	Number	32936
+Persons	2024	15 - 19 years	West	Male	Number	17619
+Persons	2024	15 - 19 years	West	Female	Number	15317
+Persons	2024	15 - 19 years	Ireland	Both sexes	Number	355598
+Persons	2024	15 - 19 years	Ireland	Male	Number	183781
+Persons	2024	15 - 19 years	Ireland	Female	Number	171817
+Persons	2024	20 - 24 years	Border	Both sexes	Number	24237
+Persons	2024	20 - 24 years	Border	Male	Number	12697
+Persons	2024	20 - 24 years	Border	Female	Number	11540
+Persons	2024	20 - 24 years	Dublin	Both sexes	Number	88891
+Persons	2024	20 - 24 years	Dublin	Male	Number	44899
+Persons	2024	20 - 24 years	Dublin	Female	Number	43992
+Persons	2024	20 - 24 years	Mid-East	Both sexes	Number	48975
+Persons	2024	20 - 24 years	Mid-East	Male	Number	25544
+Persons	2024	20 - 24 years	Mid-East	Female	Number	23431
+Persons	2024	20 - 24 years	Midland	Both sexes	Number	20021
+Persons	2024	20 - 24 years	Midland	Male	Number	10128
+Persons	2024	20 - 24 years	Midland	Female	Number	9893
+Persons	2024	20 - 24 years	Mid-West	Both sexes	Number	32248
+Persons	2024	20 - 24 years	Mid-West	Male	Number	16240
+Persons	2024	20 - 24 years	Mid-West	Female	Number	16008
+Persons	2024	20 - 24 years	South-East	Both sexes	Number	29089
+Persons	2024	20 - 24 years	South-East	Male	Number	15553
+Persons	2024	20 - 24 years	South-East	Female	Number	13536
+Persons	2024	20 - 24 years	South-West	Both sexes	Number	46058
+Persons	2024	20 - 24 years	South-West	Male	Number	23227
+Persons	2024	20 - 24 years	South-West	Female	Number	22831
+Persons	2024	20 - 24 years	West	Both sexes	Number	30065
+Persons	2024	20 - 24 years	West	Male	Number	15579
+Persons	2024	20 - 24 years	West	Female	Number	14486
+Persons	2024	20 - 24 years	Ireland	Both sexes	Number	319584
+Persons	2024	20 - 24 years	Ireland	Male	Number	163867
+Persons	2024	20 - 24 years	Ireland	Female	Number	155717
+Persons	2024	25 - 29 years	Border	Both sexes	Number	21701
+Persons	2024	25 - 29 years	Border	Male	Number	11122
+Persons	2024	25 - 29 years	Border	Female	Number	10579
+Persons	2024	25 - 29 years	Dublin	Both sexes	Number	110960
+Persons	2024	25 - 29 years	Dublin	Male	Number	55175
+Persons	2024	25 - 29 years	Dublin	Female	Number	55785
+Persons	2024	25 - 29 years	Mid-East	Both sexes	Number	40362
+Persons	2024	25 - 29 years	Mid-East	Male	Number	20676
+Persons	2024	25 - 29 years	Mid-East	Female	Number	19686
+Persons	2024	25 - 29 years	Midland	Both sexes	Number	17881
+Persons	2024	25 - 29 years	Midland	Male	Number	9060
+Persons	2024	25 - 29 years	Midland	Female	Number	8821
+Persons	2024	25 - 29 years	Mid-West	Both sexes	Number	30319
+Persons	2024	25 - 29 years	Mid-West	Male	Number	15025
+Persons	2024	25 - 29 years	Mid-West	Female	Number	15294
+Persons	2024	25 - 29 years	South-East	Both sexes	Number	24298
+Persons	2024	25 - 29 years	South-East	Male	Number	12365
+Persons	2024	25 - 29 years	South-East	Female	Number	11933
+Persons	2024	25 - 29 years	South-West	Both sexes	Number	43653
+Persons	2024	25 - 29 years	South-West	Male	Number	22080
+Persons	2024	25 - 29 years	South-West	Female	Number	21573
+Persons	2024	25 - 29 years	West	Both sexes	Number	27006
+Persons	2024	25 - 29 years	West	Male	Number	13593
+Persons	2024	25 - 29 years	West	Female	Number	13413
+Persons	2024	25 - 29 years	Ireland	Both sexes	Number	316180
+Persons	2024	25 - 29 years	Ireland	Male	Number	159096
+Persons	2024	25 - 29 years	Ireland	Female	Number	157084
+Persons	2024	30 - 34 years	Border	Both sexes	Number	23079
+Persons	2024	30 - 34 years	Border	Male	Number	11184
+Persons	2024	30 - 34 years	Border	Female	Number	11895
+Persons	2024	30 - 34 years	Dublin	Both sexes	Number	123318
+Persons	2024	30 - 34 years	Dublin	Male	Number	60709
+Persons	2024	30 - 34 years	Dublin	Female	Number	62609
+Persons	2024	30 - 34 years	Mid-East	Both sexes	Number	42261
+Persons	2024	30 - 34 years	Mid-East	Male	Number	20562
+Persons	2024	30 - 34 years	Mid-East	Female	Number	21699
+Persons	2024	30 - 34 years	Midland	Both sexes	Number	18884
+Persons	2024	30 - 34 years	Midland	Male	Number	9031
+Persons	2024	30 - 34 years	Midland	Female	Number	9853
+Persons	2024	30 - 34 years	Mid-West	Both sexes	Number	30290
+Persons	2024	30 - 34 years	Mid-West	Male	Number	14437
+Persons	2024	30 - 34 years	Mid-West	Female	Number	15853
+Persons	2024	30 - 34 years	South-East	Both sexes	Number	25731
+Persons	2024	30 - 34 years	South-East	Male	Number	12508
+Persons	2024	30 - 34 years	South-East	Female	Number	13223
+Persons	2024	30 - 34 years	South-West	Both sexes	Number	45778
+Persons	2024	30 - 34 years	South-West	Male	Number	22273
+Persons	2024	30 - 34 years	South-West	Female	Number	23505
+Persons	2024	30 - 34 years	West	Both sexes	Number	28770
+Persons	2024	30 - 34 years	West	Male	Number	13878
+Persons	2024	30 - 34 years	West	Female	Number	14892
+Persons	2024	30 - 34 years	Ireland	Both sexes	Number	338111
+Persons	2024	30 - 34 years	Ireland	Male	Number	164582
+Persons	2024	30 - 34 years	Ireland	Female	Number	173529
+Persons	2024	35 - 39 years	Border	Both sexes	Number	28120
+Persons	2024	35 - 39 years	Border	Male	Number	13289
+Persons	2024	35 - 39 years	Border	Female	Number	14831
+Persons	2024	35 - 39 years	Dublin	Both sexes	Number	126978
+Persons	2024	35 - 39 years	Dublin	Male	Number	61790
+Persons	2024	35 - 39 years	Dublin	Female	Number	65188
+Persons	2024	35 - 39 years	Mid-East	Both sexes	Number	53470
+Persons	2024	35 - 39 years	Mid-East	Male	Number	25474
+Persons	2024	35 - 39 years	Mid-East	Female	Number	27996
+Persons	2024	35 - 39 years	Midland	Both sexes	Number	23075
+Persons	2024	35 - 39 years	Midland	Male	Number	10842
+Persons	2024	35 - 39 years	Midland	Female	Number	12233
+Persons	2024	35 - 39 years	Mid-West	Both sexes	Number	35220
+Persons	2024	35 - 39 years	Mid-West	Male	Number	16551
+Persons	2024	35 - 39 years	Mid-West	Female	Number	18669
+Persons	2024	35 - 39 years	South-East	Both sexes	Number	30313
+Persons	2024	35 - 39 years	South-East	Male	Number	14155
+Persons	2024	35 - 39 years	South-East	Female	Number	16158
+Persons	2024	35 - 39 years	South-West	Both sexes	Number	52484
+Persons	2024	35 - 39 years	South-West	Male	Number	24950
+Persons	2024	35 - 39 years	South-West	Female	Number	27534
+Persons	2024	35 - 39 years	West	Both sexes	Number	33614
+Persons	2024	35 - 39 years	West	Male	Number	15736
+Persons	2024	35 - 39 years	West	Female	Number	17878
+Persons	2024	35 - 39 years	Ireland	Both sexes	Number	383274
+Persons	2024	35 - 39 years	Ireland	Male	Number	182787
+Persons	2024	35 - 39 years	Ireland	Female	Number	200487
+Persons	2024	40 - 44 years	Border	Both sexes	Number	32513
+Persons	2024	40 - 44 years	Border	Male	Number	15585
+Persons	2024	40 - 44 years	Border	Female	Number	16928
+Persons	2024	40 - 44 years	Dublin	Both sexes	Number	131865
+Persons	2024	40 - 44 years	Dublin	Male	Number	64824
+Persons	2024	40 - 44 years	Dublin	Female	Number	67041
+Persons	2024	40 - 44 years	Mid-East	Both sexes	Number	64572
+Persons	2024	40 - 44 years	Mid-East	Male	Number	31283
+Persons	2024	40 - 44 years	Mid-East	Female	Number	33289
+Persons	2024	40 - 44 years	Midland	Both sexes	Number	26931
+Persons	2024	40 - 44 years	Midland	Male	Number	12793
+Persons	2024	40 - 44 years	Midland	Female	Number	14138
+Persons	2024	40 - 44 years	Mid-West	Both sexes	Number	40533
+Persons	2024	40 - 44 years	Mid-West	Male	Number	19123
+Persons	2024	40 - 44 years	Mid-West	Female	Number	21410
+Persons	2024	40 - 44 years	South-East	Both sexes	Number	35340
+Persons	2024	40 - 44 years	South-East	Male	Number	16896
+Persons	2024	40 - 44 years	South-East	Female	Number	18444
+Persons	2024	40 - 44 years	South-West	Both sexes	Number	60626
+Persons	2024	40 - 44 years	South-West	Male	Number	29020
+Persons	2024	40 - 44 years	South-West	Female	Number	31606
+Persons	2024	40 - 44 years	West	Both sexes	Number	39249
+Persons	2024	40 - 44 years	West	Male	Number	18570
+Persons	2024	40 - 44 years	West	Female	Number	20679
+Persons	2024	40 - 44 years	Ireland	Both sexes	Number	431629
+Persons	2024	40 - 44 years	Ireland	Male	Number	208094
+Persons	2024	40 - 44 years	Ireland	Female	Number	223535
+Persons	2024	45 - 49 years	Border	Both sexes	Number	31105
+Persons	2024	45 - 49 years	Border	Male	Number	15217
+Persons	2024	45 - 49 years	Border	Female	Number	15888
+Persons	2024	45 - 49 years	Dublin	Both sexes	Number	109987
+Persons	2024	45 - 49 years	Dublin	Male	Number	54359
+Persons	2024	45 - 49 years	Dublin	Female	Number	55628
+Persons	2024	45 - 49 years	Mid-East	Both sexes	Number	60873
+Persons	2024	45 - 49 years	Mid-East	Male	Number	29671
+Persons	2024	45 - 49 years	Mid-East	Female	Number	31202
+Persons	2024	45 - 49 years	Midland	Both sexes	Number	24282
+Persons	2024	45 - 49 years	Midland	Male	Number	12048
+Persons	2024	45 - 49 years	Midland	Female	Number	12234
+Persons	2024	45 - 49 years	Mid-West	Both sexes	Number	37567
+Persons	2024	45 - 49 years	Mid-West	Male	Number	18447
+Persons	2024	45 - 49 years	Mid-West	Female	Number	19120
+Persons	2024	45 - 49 years	South-East	Both sexes	Number	34298
+Persons	2024	45 - 49 years	South-East	Male	Number	16637
+Persons	2024	45 - 49 years	South-East	Female	Number	17661
+Persons	2024	45 - 49 years	South-West	Both sexes	Number	56732
+Persons	2024	45 - 49 years	South-West	Male	Number	27868
+Persons	2024	45 - 49 years	South-West	Female	Number	28864
+Persons	2024	45 - 49 years	West	Both sexes	Number	36489
+Persons	2024	45 - 49 years	West	Male	Number	17956
+Persons	2024	45 - 49 years	West	Female	Number	18533
+Persons	2024	45 - 49 years	Ireland	Both sexes	Number	391333
+Persons	2024	45 - 49 years	Ireland	Male	Number	192203
+Persons	2024	45 - 49 years	Ireland	Female	Number	199130
+Persons	2024	50 - 54 years	Border	Both sexes	Number	29793
+Persons	2024	50 - 54 years	Border	Male	Number	14819
+Persons	2024	50 - 54 years	Border	Female	Number	14974
+Persons	2024	50 - 54 years	Dublin	Both sexes	Number	96977
+Persons	2024	50 - 54 years	Dublin	Male	Number	47667
+Persons	2024	50 - 54 years	Dublin	Female	Number	49310
+Persons	2024	50 - 54 years	Mid-East	Both sexes	Number	56877
+Persons	2024	50 - 54 years	Mid-East	Male	Number	28321
+Persons	2024	50 - 54 years	Mid-East	Female	Number	28556
+Persons	2024	50 - 54 years	Midland	Both sexes	Number	22651
+Persons	2024	50 - 54 years	Midland	Male	Number	11355
+Persons	2024	50 - 54 years	Midland	Female	Number	11296
+Persons	2024	50 - 54 years	Mid-West	Both sexes	Number	36209
+Persons	2024	50 - 54 years	Mid-West	Male	Number	17992
+Persons	2024	50 - 54 years	Mid-West	Female	Number	18217
+Persons	2024	50 - 54 years	South-East	Both sexes	Number	32944
+Persons	2024	50 - 54 years	South-East	Male	Number	16190
+Persons	2024	50 - 54 years	South-East	Female	Number	16754
+Persons	2024	50 - 54 years	South-West	Both sexes	Number	53051
+Persons	2024	50 - 54 years	South-West	Male	Number	26441
+Persons	2024	50 - 54 years	South-West	Female	Number	26610
+Persons	2024	50 - 54 years	West	Both sexes	Number	33941
+Persons	2024	50 - 54 years	West	Male	Number	16934
+Persons	2024	50 - 54 years	West	Female	Number	17007
+Persons	2024	50 - 54 years	Ireland	Both sexes	Number	362443
+Persons	2024	50 - 54 years	Ireland	Male	Number	179719
+Persons	2024	50 - 54 years	Ireland	Female	Number	182724
+Persons	2024	55 - 59 years	Border	Both sexes	Number	27860
+Persons	2024	55 - 59 years	Border	Male	Number	13840
+Persons	2024	55 - 59 years	Border	Female	Number	14020
+Persons	2024	55 - 59 years	Dublin	Both sexes	Number	82117
+Persons	2024	55 - 59 years	Dublin	Male	Number	39772
+Persons	2024	55 - 59 years	Dublin	Female	Number	42345
+Persons	2024	55 - 59 years	Mid-East	Both sexes	Number	48068
+Persons	2024	55 - 59 years	Mid-East	Male	Number	23969
+Persons	2024	55 - 59 years	Mid-East	Female	Number	24099
+Persons	2024	55 - 59 years	Midland	Both sexes	Number	20367
+Persons	2024	55 - 59 years	Midland	Male	Number	10229
+Persons	2024	55 - 59 years	Midland	Female	Number	10138
+Persons	2024	55 - 59 years	Mid-West	Both sexes	Number	33042
+Persons	2024	55 - 59 years	Mid-West	Male	Number	16531
+Persons	2024	55 - 59 years	Mid-West	Female	Number	16511
+Persons	2024	55 - 59 years	South-East	Both sexes	Number	30376
+Persons	2024	55 - 59 years	South-East	Male	Number	14810
+Persons	2024	55 - 59 years	South-East	Female	Number	15566
+Persons	2024	55 - 59 years	South-West	Both sexes	Number	47718
+Persons	2024	55 - 59 years	South-West	Male	Number	23498
+Persons	2024	55 - 59 years	South-West	Female	Number	24220
+Persons	2024	55 - 59 years	West	Both sexes	Number	31119
+Persons	2024	55 - 59 years	West	Male	Number	15562
+Persons	2024	55 - 59 years	West	Female	Number	15557
+Persons	2024	55 - 59 years	Ireland	Both sexes	Number	320667
+Persons	2024	55 - 59 years	Ireland	Male	Number	158211
+Persons	2024	55 - 59 years	Ireland	Female	Number	162456
+Persons	2024	60 - 64 years	Border	Both sexes	Number	26065
+Persons	2024	60 - 64 years	Border	Male	Number	12845
+Persons	2024	60 - 64 years	Border	Female	Number	13220
+Persons	2024	60 - 64 years	Dublin	Both sexes	Number	75016
+Persons	2024	60 - 64 years	Dublin	Male	Number	35919
+Persons	2024	60 - 64 years	Dublin	Female	Number	39097
+Persons	2024	60 - 64 years	Mid-East	Both sexes	Number	40934
+Persons	2024	60 - 64 years	Mid-East	Male	Number	20224
+Persons	2024	60 - 64 years	Mid-East	Female	Number	20710
+Persons	2024	60 - 64 years	Midland	Both sexes	Number	18490
+Persons	2024	60 - 64 years	Midland	Male	Number	9274
+Persons	2024	60 - 64 years	Midland	Female	Number	9216
+Persons	2024	60 - 64 years	Mid-West	Both sexes	Number	30601
+Persons	2024	60 - 64 years	Mid-West	Male	Number	15151
+Persons	2024	60 - 64 years	Mid-West	Female	Number	15450
+Persons	2024	60 - 64 years	South-East	Both sexes	Number	28282
+Persons	2024	60 - 64 years	South-East	Male	Number	13709
+Persons	2024	60 - 64 years	South-East	Female	Number	14573
+Persons	2024	60 - 64 years	South-West	Both sexes	Number	44414
+Persons	2024	60 - 64 years	South-West	Male	Number	21954
+Persons	2024	60 - 64 years	South-West	Female	Number	22460
+Persons	2024	60 - 64 years	West	Both sexes	Number	29008
+Persons	2024	60 - 64 years	West	Male	Number	14440
+Persons	2024	60 - 64 years	West	Female	Number	14568
+Persons	2024	60 - 64 years	Ireland	Both sexes	Number	292810
+Persons	2024	60 - 64 years	Ireland	Male	Number	143516
+Persons	2024	60 - 64 years	Ireland	Female	Number	149294
+Persons	2024	65 - 69 years	Border	Both sexes	Number	22896
+Persons	2024	65 - 69 years	Border	Male	Number	11389
+Persons	2024	65 - 69 years	Border	Female	Number	11507
+Persons	2024	65 - 69 years	Dublin	Both sexes	Number	61933
+Persons	2024	65 - 69 years	Dublin	Male	Number	29282
+Persons	2024	65 - 69 years	Dublin	Female	Number	32651
+Persons	2024	65 - 69 years	Mid-East	Both sexes	Number	34097
+Persons	2024	65 - 69 years	Mid-East	Male	Number	16718
+Persons	2024	65 - 69 years	Mid-East	Female	Number	17379
+Persons	2024	65 - 69 years	Midland	Both sexes	Number	15564
+Persons	2024	65 - 69 years	Midland	Male	Number	7794
+Persons	2024	65 - 69 years	Midland	Female	Number	7770
+Persons	2024	65 - 69 years	Mid-West	Both sexes	Number	27231
+Persons	2024	65 - 69 years	Mid-West	Male	Number	13660
+Persons	2024	65 - 69 years	Mid-West	Female	Number	13571
+Persons	2024	65 - 69 years	South-East	Both sexes	Number	23815
+Persons	2024	65 - 69 years	South-East	Male	Number	11853
+Persons	2024	65 - 69 years	South-East	Female	Number	11962
+Persons	2024	65 - 69 years	South-West	Both sexes	Number	38271
+Persons	2024	65 - 69 years	South-West	Male	Number	18994
+Persons	2024	65 - 69 years	South-West	Female	Number	19277
+Persons	2024	65 - 69 years	West	Both sexes	Number	26506
+Persons	2024	65 - 69 years	West	Male	Number	13092
+Persons	2024	65 - 69 years	West	Female	Number	13414
+Persons	2024	65 - 69 years	Ireland	Both sexes	Number	250313
+Persons	2024	65 - 69 years	Ireland	Male	Number	122782
+Persons	2024	65 - 69 years	Ireland	Female	Number	127531
+Persons	2024	70 - 74 years	Border	Both sexes	Number	19790
+Persons	2024	70 - 74 years	Border	Male	Number	9894
+Persons	2024	70 - 74 years	Border	Female	Number	9896
+Persons	2024	70 - 74 years	Dublin	Both sexes	Number	52813
+Persons	2024	70 - 74 years	Dublin	Male	Number	24673
+Persons	2024	70 - 74 years	Dublin	Female	Number	28140
+Persons	2024	70 - 74 years	Mid-East	Both sexes	Number	28417
+Persons	2024	70 - 74 years	Mid-East	Male	Number	13822
+Persons	2024	70 - 74 years	Mid-East	Female	Number	14595
+Persons	2024	70 - 74 years	Midland	Both sexes	Number	13084
+Persons	2024	70 - 74 years	Midland	Male	Number	6520
+Persons	2024	70 - 74 years	Midland	Female	Number	6564
+Persons	2024	70 - 74 years	Mid-West	Both sexes	Number	23546
+Persons	2024	70 - 74 years	Mid-West	Male	Number	11753
+Persons	2024	70 - 74 years	Mid-West	Female	Number	11793
+Persons	2024	70 - 74 years	South-East	Both sexes	Number	20663
+Persons	2024	70 - 74 years	South-East	Male	Number	10173
+Persons	2024	70 - 74 years	South-East	Female	Number	10490
+Persons	2024	70 - 74 years	South-West	Both sexes	Number	32880
+Persons	2024	70 - 74 years	South-West	Male	Number	16174
+Persons	2024	70 - 74 years	South-West	Female	Number	16706
+Persons	2024	70 - 74 years	West	Both sexes	Number	22511
+Persons	2024	70 - 74 years	West	Male	Number	11079
+Persons	2024	70 - 74 years	West	Female	Number	11432
+Persons	2024	70 - 74 years	Ireland	Both sexes	Number	213704
+Persons	2024	70 - 74 years	Ireland	Male	Number	104088
+Persons	2024	70 - 74 years	Ireland	Female	Number	109616
+Persons	2024	75 - 79 years	Border	Both sexes	Number	15598
+Persons	2024	75 - 79 years	Border	Male	Number	7721
+Persons	2024	75 - 79 years	Border	Female	Number	7877
+Persons	2024	75 - 79 years	Dublin	Both sexes	Number	41204
+Persons	2024	75 - 79 years	Dublin	Male	Number	18832
+Persons	2024	75 - 79 years	Dublin	Female	Number	22372
+Persons	2024	75 - 79 years	Mid-East	Both sexes	Number	22356
+Persons	2024	75 - 79 years	Mid-East	Male	Number	10778
+Persons	2024	75 - 79 years	Mid-East	Female	Number	11578
+Persons	2024	75 - 79 years	Midland	Both sexes	Number	10048
+Persons	2024	75 - 79 years	Midland	Male	Number	4844
+Persons	2024	75 - 79 years	Midland	Female	Number	5204
+Persons	2024	75 - 79 years	Mid-West	Both sexes	Number	18400
+Persons	2024	75 - 79 years	Mid-West	Male	Number	8760
+Persons	2024	75 - 79 years	Mid-West	Female	Number	9640
+Persons	2024	75 - 79 years	South-East	Both sexes	Number	16121
+Persons	2024	75 - 79 years	South-East	Male	Number	7839
+Persons	2024	75 - 79 years	South-East	Female	Number	8282
+Persons	2024	75 - 79 years	South-West	Both sexes	Number	26145
+Persons	2024	75 - 79 years	South-West	Male	Number	12738
+Persons	2024	75 - 79 years	South-West	Female	Number	13407
+Persons	2024	75 - 79 years	West	Both sexes	Number	17407
+Persons	2024	75 - 79 years	West	Male	Number	8680
+Persons	2024	75 - 79 years	West	Female	Number	8727
+Persons	2024	75 - 79 years	Ireland	Both sexes	Number	167279
+Persons	2024	75 - 79 years	Ireland	Male	Number	80192
+Persons	2024	75 - 79 years	Ireland	Female	Number	87087
+Persons	2024	80 - 84 years	Border	Both sexes	Number	9709
+Persons	2024	80 - 84 years	Border	Male	Number	4677
+Persons	2024	80 - 84 years	Border	Female	Number	5032
+Persons	2024	80 - 84 years	Dublin	Both sexes	Number	27369
+Persons	2024	80 - 84 years	Dublin	Male	Number	11848
+Persons	2024	80 - 84 years	Dublin	Female	Number	15521
+Persons	2024	80 - 84 years	Mid-East	Both sexes	Number	13336
+Persons	2024	80 - 84 years	Mid-East	Male	Number	6139
+Persons	2024	80 - 84 years	Mid-East	Female	Number	7197
+Persons	2024	80 - 84 years	Midland	Both sexes	Number	6073
+Persons	2024	80 - 84 years	Midland	Male	Number	2748
+Persons	2024	80 - 84 years	Midland	Female	Number	3325
+Persons	2024	80 - 84 years	Mid-West	Both sexes	Number	11372
+Persons	2024	80 - 84 years	Mid-West	Male	Number	5249
+Persons	2024	80 - 84 years	Mid-West	Female	Number	6123
+Persons	2024	80 - 84 years	South-East	Both sexes	Number	10322
+Persons	2024	80 - 84 years	South-East	Male	Number	4912
+Persons	2024	80 - 84 years	South-East	Female	Number	5410
+Persons	2024	80 - 84 years	South-West	Both sexes	Number	16324
+Persons	2024	80 - 84 years	South-West	Male	Number	7385
+Persons	2024	80 - 84 years	South-West	Female	Number	8939
+Persons	2024	80 - 84 years	West	Both sexes	Number	10979
+Persons	2024	80 - 84 years	West	Male	Number	5102
+Persons	2024	80 - 84 years	West	Female	Number	5877
+Persons	2024	80 - 84 years	Ireland	Both sexes	Number	105484
+Persons	2024	80 - 84 years	Ireland	Male	Number	48060
+Persons	2024	80 - 84 years	Ireland	Female	Number	57424
+Persons	2024	85 years and over	Border	Both sexes	Number	8385
+Persons	2024	85 years and over	Border	Male	Number	3297
+Persons	2024	85 years and over	Border	Female	Number	5088
+Persons	2024	85 years and over	Dublin	Both sexes	Number	25153
+Persons	2024	85 years and over	Dublin	Male	Number	9128
+Persons	2024	85 years and over	Dublin	Female	Number	16025
+Persons	2024	85 years and over	Mid-East	Both sexes	Number	10279
+Persons	2024	85 years and over	Mid-East	Male	Number	4003
+Persons	2024	85 years and over	Mid-East	Female	Number	6276
+Persons	2024	85 years and over	Midland	Both sexes	Number	5161
+Persons	2024	85 years and over	Midland	Male	Number	2103
+Persons	2024	85 years and over	Midland	Female	Number	3058
+Persons	2024	85 years and over	Mid-West	Both sexes	Number	9431
+Persons	2024	85 years and over	Mid-West	Male	Number	3736
+Persons	2024	85 years and over	Mid-West	Female	Number	5695
+Persons	2024	85 years and over	South-East	Both sexes	Number	8426
+Persons	2024	85 years and over	South-East	Male	Number	3286
+Persons	2024	85 years and over	South-East	Female	Number	5140
+Persons	2024	85 years and over	South-West	Both sexes	Number	13978
+Persons	2024	85 years and over	South-West	Male	Number	5562
+Persons	2024	85 years and over	South-West	Female	Number	8416
+Persons	2024	85 years and over	West	Both sexes	Number	9716
+Persons	2024	85 years and over	West	Male	Number	3795
+Persons	2024	85 years and over	West	Female	Number	5921
+Persons	2024	85 years and over	Ireland	Both sexes	Number	90529
+Persons	2024	85 years and over	Ireland	Male	Number	34910
+Persons	2024	85 years and over	Ireland	Female	Number	55619
+Persons	2025	All ages	Border	Both sexes	Number	441940
+Persons	2025	All ages	Border	Male	Number	220375
+Persons	2025	All ages	Border	Female	Number	221565
+Persons	2025	All ages	Dublin	Both sexes	Number	1556255
+Persons	2025	All ages	Dublin	Male	Number	765994
+Persons	2025	All ages	Dublin	Female	Number	790261
+Persons	2025	All ages	Mid-East	Both sexes	Number	787287
+Persons	2025	All ages	Mid-East	Male	Number	390816
+Persons	2025	All ages	Mid-East	Female	Number	396471
+Persons	2025	All ages	Midland	Both sexes	Number	331869
+Persons	2025	All ages	Midland	Male	Number	165023
+Persons	2025	All ages	Midland	Female	Number	166846
+Persons	2025	All ages	Mid-West	Both sexes	Number	540371
+Persons	2025	All ages	Mid-West	Male	Number	266137
+Persons	2025	All ages	Mid-West	Female	Number	274234
+Persons	2025	All ages	South-East	Both sexes	Number	485195
+Persons	2025	All ages	South-East	Male	Number	238093
+Persons	2025	All ages	South-East	Female	Number	247102
+Persons	2025	All ages	South-West	Both sexes	Number	780376
+Persons	2025	All ages	South-West	Male	Number	384676
+Persons	2025	All ages	South-West	Female	Number	395700
+Persons	2025	All ages	West	Both sexes	Number	516985
+Persons	2025	All ages	West	Male	Number	259424
+Persons	2025	All ages	West	Female	Number	257561
+Persons	2025	All ages	Ireland	Both sexes	Number	5440278
+Persons	2025	All ages	Ireland	Male	Number	2690538
+Persons	2025	All ages	Ireland	Female	Number	2749740
+Persons	2025	0 - 4 years	Border	Both sexes	Number	25014
+Persons	2025	0 - 4 years	Border	Male	Number	12549
+Persons	2025	0 - 4 years	Border	Female	Number	12465
+Persons	2025	0 - 4 years	Dublin	Both sexes	Number	84866
+Persons	2025	0 - 4 years	Dublin	Male	Number	43402
+Persons	2025	0 - 4 years	Dublin	Female	Number	41464
+Persons	2025	0 - 4 years	Mid-East	Both sexes	Number	44997
+Persons	2025	0 - 4 years	Mid-East	Male	Number	23078
+Persons	2025	0 - 4 years	Mid-East	Female	Number	21919
+Persons	2025	0 - 4 years	Midland	Both sexes	Number	17400
+Persons	2025	0 - 4 years	Midland	Male	Number	8990
+Persons	2025	0 - 4 years	Midland	Female	Number	8410
+Persons	2025	0 - 4 years	Mid-West	Both sexes	Number	27655
+Persons	2025	0 - 4 years	Mid-West	Male	Number	13989
+Persons	2025	0 - 4 years	Mid-West	Female	Number	13666
+Persons	2025	0 - 4 years	South-East	Both sexes	Number	25500
+Persons	2025	0 - 4 years	South-East	Male	Number	12546
+Persons	2025	0 - 4 years	South-East	Female	Number	12954
+Persons	2025	0 - 4 years	South-West	Both sexes	Number	38572
+Persons	2025	0 - 4 years	South-West	Male	Number	19634
+Persons	2025	0 - 4 years	South-West	Female	Number	18938
+Persons	2025	0 - 4 years	West	Both sexes	Number	27081
+Persons	2025	0 - 4 years	West	Male	Number	13643
+Persons	2025	0 - 4 years	West	Female	Number	13438
+Persons	2025	0 - 4 years	Ireland	Both sexes	Number	291085
+Persons	2025	0 - 4 years	Ireland	Male	Number	147831
+Persons	2025	0 - 4 years	Ireland	Female	Number	143254
+Persons	2025	5 - 9 years	Border	Both sexes	Number	29731
+Persons	2025	5 - 9 years	Border	Male	Number	14965
+Persons	2025	5 - 9 years	Border	Female	Number	14766
+Persons	2025	5 - 9 years	Dublin	Both sexes	Number	92842
+Persons	2025	5 - 9 years	Dublin	Male	Number	47354
+Persons	2025	5 - 9 years	Dublin	Female	Number	45488
+Persons	2025	5 - 9 years	Mid-East	Both sexes	Number	51324
+Persons	2025	5 - 9 years	Mid-East	Male	Number	26482
+Persons	2025	5 - 9 years	Mid-East	Female	Number	24842
+Persons	2025	5 - 9 years	Midland	Both sexes	Number	20871
+Persons	2025	5 - 9 years	Midland	Male	Number	10881
+Persons	2025	5 - 9 years	Midland	Female	Number	9990
+Persons	2025	5 - 9 years	Mid-West	Both sexes	Number	32087
+Persons	2025	5 - 9 years	Mid-West	Male	Number	16282
+Persons	2025	5 - 9 years	Mid-West	Female	Number	15805
+Persons	2025	5 - 9 years	South-East	Both sexes	Number	29684
+Persons	2025	5 - 9 years	South-East	Male	Number	14609
+Persons	2025	5 - 9 years	South-East	Female	Number	15075
+Persons	2025	5 - 9 years	South-West	Both sexes	Number	46322
+Persons	2025	5 - 9 years	South-West	Male	Number	23767
+Persons	2025	5 - 9 years	South-West	Female	Number	22555
+Persons	2025	5 - 9 years	West	Both sexes	Number	30931
+Persons	2025	5 - 9 years	West	Male	Number	15829
+Persons	2025	5 - 9 years	West	Female	Number	15102
+Persons	2025	5 - 9 years	Ireland	Both sexes	Number	333792
+Persons	2025	5 - 9 years	Ireland	Male	Number	170169
+Persons	2025	5 - 9 years	Ireland	Female	Number	163623
+Persons	2025	10 - 14 years	Border	Both sexes	Number	33670
+Persons	2025	10 - 14 years	Border	Male	Number	17249
+Persons	2025	10 - 14 years	Border	Female	Number	16421
+Persons	2025	10 - 14 years	Dublin	Both sexes	Number	101602
+Persons	2025	10 - 14 years	Dublin	Male	Number	51978
+Persons	2025	10 - 14 years	Dublin	Female	Number	49624
+Persons	2025	10 - 14 years	Mid-East	Both sexes	Number	60995
+Persons	2025	10 - 14 years	Mid-East	Male	Number	31236
+Persons	2025	10 - 14 years	Mid-East	Female	Number	29759
+Persons	2025	10 - 14 years	Midland	Both sexes	Number	24416
+Persons	2025	10 - 14 years	Midland	Male	Number	12626
+Persons	2025	10 - 14 years	Midland	Female	Number	11790
+Persons	2025	10 - 14 years	Mid-West	Both sexes	Number	36745
+Persons	2025	10 - 14 years	Mid-West	Male	Number	18684
+Persons	2025	10 - 14 years	Mid-West	Female	Number	18061
+Persons	2025	10 - 14 years	South-East	Both sexes	Number	34874
+Persons	2025	10 - 14 years	South-East	Male	Number	17463
+Persons	2025	10 - 14 years	South-East	Female	Number	17411
+Persons	2025	10 - 14 years	South-West	Both sexes	Number	53207
+Persons	2025	10 - 14 years	South-West	Male	Number	27254
+Persons	2025	10 - 14 years	South-West	Female	Number	25953
+Persons	2025	10 - 14 years	West	Both sexes	Number	34739
+Persons	2025	10 - 14 years	West	Male	Number	17869
+Persons	2025	10 - 14 years	West	Female	Number	16870
+Persons	2025	10 - 14 years	Ireland	Both sexes	Number	380248
+Persons	2025	10 - 14 years	Ireland	Male	Number	194359
+Persons	2025	10 - 14 years	Ireland	Female	Number	185889
+Persons	2025	15 - 19 years	Border	Both sexes	Number	31138
+Persons	2025	15 - 19 years	Border	Male	Number	16478
+Persons	2025	15 - 19 years	Border	Female	Number	14660
+Persons	2025	15 - 19 years	Dublin	Both sexes	Number	92589
+Persons	2025	15 - 19 years	Dublin	Male	Number	47936
+Persons	2025	15 - 19 years	Dublin	Female	Number	44653
+Persons	2025	15 - 19 years	Mid-East	Both sexes	Number	58865
+Persons	2025	15 - 19 years	Mid-East	Male	Number	30148
+Persons	2025	15 - 19 years	Mid-East	Female	Number	28717
+Persons	2025	15 - 19 years	Midland	Both sexes	Number	24653
+Persons	2025	15 - 19 years	Midland	Male	Number	12487
+Persons	2025	15 - 19 years	Midland	Female	Number	12166
+Persons	2025	15 - 19 years	Mid-West	Both sexes	Number	37690
+Persons	2025	15 - 19 years	Mid-West	Male	Number	19423
+Persons	2025	15 - 19 years	Mid-West	Female	Number	18267
+Persons	2025	15 - 19 years	South-East	Both sexes	Number	35198
+Persons	2025	15 - 19 years	South-East	Male	Number	18705
+Persons	2025	15 - 19 years	South-East	Female	Number	16493
+Persons	2025	15 - 19 years	South-West	Both sexes	Number	52364
+Persons	2025	15 - 19 years	South-West	Male	Number	26572
+Persons	2025	15 - 19 years	South-West	Female	Number	25792
+Persons	2025	15 - 19 years	West	Both sexes	Number	34641
+Persons	2025	15 - 19 years	West	Male	Number	18619
+Persons	2025	15 - 19 years	West	Female	Number	16022
+Persons	2025	15 - 19 years	Ireland	Both sexes	Number	367138
+Persons	2025	15 - 19 years	Ireland	Male	Number	190368
+Persons	2025	15 - 19 years	Ireland	Female	Number	176770
+Persons	2025	20 - 24 years	Border	Both sexes	Number	25060
+Persons	2025	20 - 24 years	Border	Male	Number	13165
+Persons	2025	20 - 24 years	Border	Female	Number	11895
+Persons	2025	20 - 24 years	Dublin	Both sexes	Number	85287
+Persons	2025	20 - 24 years	Dublin	Male	Number	44037
+Persons	2025	20 - 24 years	Dublin	Female	Number	41250
+Persons	2025	20 - 24 years	Mid-East	Both sexes	Number	50336
+Persons	2025	20 - 24 years	Mid-East	Male	Number	26137
+Persons	2025	20 - 24 years	Mid-East	Female	Number	24199
+Persons	2025	20 - 24 years	Midland	Both sexes	Number	20805
+Persons	2025	20 - 24 years	Midland	Male	Number	10401
+Persons	2025	20 - 24 years	Midland	Female	Number	10404
+Persons	2025	20 - 24 years	Mid-West	Both sexes	Number	34227
+Persons	2025	20 - 24 years	Mid-West	Male	Number	17353
+Persons	2025	20 - 24 years	Mid-West	Female	Number	16874
+Persons	2025	20 - 24 years	South-East	Both sexes	Number	30566
+Persons	2025	20 - 24 years	South-East	Male	Number	16439
+Persons	2025	20 - 24 years	South-East	Female	Number	14127
+Persons	2025	20 - 24 years	South-West	Both sexes	Number	46870
+Persons	2025	20 - 24 years	South-West	Male	Number	23735
+Persons	2025	20 - 24 years	South-West	Female	Number	23135
+Persons	2025	20 - 24 years	West	Both sexes	Number	31552
+Persons	2025	20 - 24 years	West	Male	Number	16992
+Persons	2025	20 - 24 years	West	Female	Number	14560
+Persons	2025	20 - 24 years	Ireland	Both sexes	Number	324703
+Persons	2025	20 - 24 years	Ireland	Male	Number	168259
+Persons	2025	20 - 24 years	Ireland	Female	Number	156444
+Persons	2025	25 - 29 years	Border	Both sexes	Number	22505
+Persons	2025	25 - 29 years	Border	Male	Number	11875
+Persons	2025	25 - 29 years	Border	Female	Number	10630
+Persons	2025	25 - 29 years	Dublin	Both sexes	Number	110319
+Persons	2025	25 - 29 years	Dublin	Male	Number	55032
+Persons	2025	25 - 29 years	Dublin	Female	Number	55287
+Persons	2025	25 - 29 years	Mid-East	Both sexes	Number	42075
+Persons	2025	25 - 29 years	Mid-East	Male	Number	21830
+Persons	2025	25 - 29 years	Mid-East	Female	Number	20245
+Persons	2025	25 - 29 years	Midland	Both sexes	Number	18130
+Persons	2025	25 - 29 years	Midland	Male	Number	9215
+Persons	2025	25 - 29 years	Midland	Female	Number	8915
+Persons	2025	25 - 29 years	Mid-West	Both sexes	Number	32142
+Persons	2025	25 - 29 years	Mid-West	Male	Number	16024
+Persons	2025	25 - 29 years	Mid-West	Female	Number	16118
+Persons	2025	25 - 29 years	South-East	Both sexes	Number	27000
+Persons	2025	25 - 29 years	South-East	Male	Number	13640
+Persons	2025	25 - 29 years	South-East	Female	Number	13360
+Persons	2025	25 - 29 years	South-West	Both sexes	Number	46035
+Persons	2025	25 - 29 years	South-West	Male	Number	22989
+Persons	2025	25 - 29 years	South-West	Female	Number	23046
+Persons	2025	25 - 29 years	West	Both sexes	Number	29890
+Persons	2025	25 - 29 years	West	Male	Number	15663
+Persons	2025	25 - 29 years	West	Female	Number	14227
+Persons	2025	25 - 29 years	Ireland	Both sexes	Number	328096
+Persons	2025	25 - 29 years	Ireland	Male	Number	166268
+Persons	2025	25 - 29 years	Ireland	Female	Number	161828
+Persons	2025	30 - 34 years	Border	Both sexes	Number	22510
+Persons	2025	30 - 34 years	Border	Male	Number	11159
+Persons	2025	30 - 34 years	Border	Female	Number	11351
+Persons	2025	30 - 34 years	Dublin	Both sexes	Number	127350
+Persons	2025	30 - 34 years	Dublin	Male	Number	62889
+Persons	2025	30 - 34 years	Dublin	Female	Number	64461
+Persons	2025	30 - 34 years	Mid-East	Both sexes	Number	41285
+Persons	2025	30 - 34 years	Mid-East	Male	Number	20125
+Persons	2025	30 - 34 years	Mid-East	Female	Number	21160
+Persons	2025	30 - 34 years	Midland	Both sexes	Number	18468
+Persons	2025	30 - 34 years	Midland	Male	Number	9060
+Persons	2025	30 - 34 years	Midland	Female	Number	9408
+Persons	2025	30 - 34 years	Mid-West	Both sexes	Number	31357
+Persons	2025	30 - 34 years	Mid-West	Male	Number	15083
+Persons	2025	30 - 34 years	Mid-West	Female	Number	16274
+Persons	2025	30 - 34 years	South-East	Both sexes	Number	26445
+Persons	2025	30 - 34 years	South-East	Male	Number	12745
+Persons	2025	30 - 34 years	South-East	Female	Number	13700
+Persons	2025	30 - 34 years	South-West	Both sexes	Number	46588
+Persons	2025	30 - 34 years	South-West	Male	Number	22680
+Persons	2025	30 - 34 years	South-West	Female	Number	23908
+Persons	2025	30 - 34 years	West	Both sexes	Number	30290
+Persons	2025	30 - 34 years	West	Male	Number	15069
+Persons	2025	30 - 34 years	West	Female	Number	15221
+Persons	2025	30 - 34 years	Ireland	Both sexes	Number	344293
+Persons	2025	30 - 34 years	Ireland	Male	Number	168810
+Persons	2025	30 - 34 years	Ireland	Female	Number	175483
+Persons	2025	35 - 39 years	Border	Both sexes	Number	26965
+Persons	2025	35 - 39 years	Border	Male	Number	13025
+Persons	2025	35 - 39 years	Border	Female	Number	13940
+Persons	2025	35 - 39 years	Dublin	Both sexes	Number	131476
+Persons	2025	35 - 39 years	Dublin	Male	Number	63911
+Persons	2025	35 - 39 years	Dublin	Female	Number	67565
+Persons	2025	35 - 39 years	Mid-East	Both sexes	Number	50447
+Persons	2025	35 - 39 years	Mid-East	Male	Number	23925
+Persons	2025	35 - 39 years	Mid-East	Female	Number	26522
+Persons	2025	35 - 39 years	Midland	Both sexes	Number	21914
+Persons	2025	35 - 39 years	Midland	Male	Number	10427
+Persons	2025	35 - 39 years	Midland	Female	Number	11487
+Persons	2025	35 - 39 years	Mid-West	Both sexes	Number	35119
+Persons	2025	35 - 39 years	Mid-West	Male	Number	16613
+Persons	2025	35 - 39 years	Mid-West	Female	Number	18506
+Persons	2025	35 - 39 years	South-East	Both sexes	Number	30213
+Persons	2025	35 - 39 years	South-East	Male	Number	14059
+Persons	2025	35 - 39 years	South-East	Female	Number	16154
+Persons	2025	35 - 39 years	South-West	Both sexes	Number	52279
+Persons	2025	35 - 39 years	South-West	Male	Number	24799
+Persons	2025	35 - 39 years	South-West	Female	Number	27480
+Persons	2025	35 - 39 years	West	Both sexes	Number	34317
+Persons	2025	35 - 39 years	West	Male	Number	16757
+Persons	2025	35 - 39 years	West	Female	Number	17560
+Persons	2025	35 - 39 years	Ireland	Both sexes	Number	382730
+Persons	2025	35 - 39 years	Ireland	Male	Number	183516
+Persons	2025	35 - 39 years	Ireland	Female	Number	199214
+Persons	2025	40 - 44 years	Border	Both sexes	Number	31665
+Persons	2025	40 - 44 years	Border	Male	Number	15176
+Persons	2025	40 - 44 years	Border	Female	Number	16489
+Persons	2025	40 - 44 years	Dublin	Both sexes	Number	136286
+Persons	2025	40 - 44 years	Dublin	Male	Number	67164
+Persons	2025	40 - 44 years	Dublin	Female	Number	69122
+Persons	2025	40 - 44 years	Mid-East	Both sexes	Number	62875
+Persons	2025	40 - 44 years	Mid-East	Male	Number	29973
+Persons	2025	40 - 44 years	Mid-East	Female	Number	32902
+Persons	2025	40 - 44 years	Midland	Both sexes	Number	26259
+Persons	2025	40 - 44 years	Midland	Male	Number	12568
+Persons	2025	40 - 44 years	Midland	Female	Number	13691
+Persons	2025	40 - 44 years	Mid-West	Both sexes	Number	40750
+Persons	2025	40 - 44 years	Mid-West	Male	Number	19170
+Persons	2025	40 - 44 years	Mid-West	Female	Number	21580
+Persons	2025	40 - 44 years	South-East	Both sexes	Number	35819
+Persons	2025	40 - 44 years	South-East	Male	Number	16777
+Persons	2025	40 - 44 years	South-East	Female	Number	19042
+Persons	2025	40 - 44 years	South-West	Both sexes	Number	60920
+Persons	2025	40 - 44 years	South-West	Male	Number	28807
+Persons	2025	40 - 44 years	South-West	Female	Number	32113
+Persons	2025	40 - 44 years	West	Both sexes	Number	40421
+Persons	2025	40 - 44 years	West	Male	Number	19497
+Persons	2025	40 - 44 years	West	Female	Number	20924
+Persons	2025	40 - 44 years	Ireland	Both sexes	Number	434995
+Persons	2025	40 - 44 years	Ireland	Male	Number	209132
+Persons	2025	40 - 44 years	Ireland	Female	Number	225863
+Persons	2025	45 - 49 years	Border	Both sexes	Number	31555
+Persons	2025	45 - 49 years	Border	Male	Number	15475
+Persons	2025	45 - 49 years	Border	Female	Number	16080
+Persons	2025	45 - 49 years	Dublin	Both sexes	Number	116428
+Persons	2025	45 - 49 years	Dublin	Male	Number	57487
+Persons	2025	45 - 49 years	Dublin	Female	Number	58941
+Persons	2025	45 - 49 years	Mid-East	Both sexes	Number	61636
+Persons	2025	45 - 49 years	Mid-East	Male	Number	30033
+Persons	2025	45 - 49 years	Mid-East	Female	Number	31603
+Persons	2025	45 - 49 years	Midland	Both sexes	Number	24866
+Persons	2025	45 - 49 years	Midland	Male	Number	12209
+Persons	2025	45 - 49 years	Midland	Female	Number	12657
+Persons	2025	45 - 49 years	Mid-West	Both sexes	Number	38627
+Persons	2025	45 - 49 years	Mid-West	Male	Number	18786
+Persons	2025	45 - 49 years	Mid-West	Female	Number	19841
+Persons	2025	45 - 49 years	South-East	Both sexes	Number	34944
+Persons	2025	45 - 49 years	South-East	Male	Number	16813
+Persons	2025	45 - 49 years	South-East	Female	Number	18131
+Persons	2025	45 - 49 years	South-West	Both sexes	Number	58150
+Persons	2025	45 - 49 years	South-West	Male	Number	28512
+Persons	2025	45 - 49 years	South-West	Female	Number	29638
+Persons	2025	45 - 49 years	West	Both sexes	Number	37475
+Persons	2025	45 - 49 years	West	Male	Number	18503
+Persons	2025	45 - 49 years	West	Female	Number	18972
+Persons	2025	45 - 49 years	Ireland	Both sexes	Number	403681
+Persons	2025	45 - 49 years	Ireland	Male	Number	197818
+Persons	2025	45 - 49 years	Ireland	Female	Number	205863
+Persons	2025	50 - 54 years	Border	Both sexes	Number	29986
+Persons	2025	50 - 54 years	Border	Male	Number	14801
+Persons	2025	50 - 54 years	Border	Female	Number	15185
+Persons	2025	50 - 54 years	Dublin	Both sexes	Number	100068
+Persons	2025	50 - 54 years	Dublin	Male	Number	49538
+Persons	2025	50 - 54 years	Dublin	Female	Number	50530
+Persons	2025	50 - 54 years	Mid-East	Both sexes	Number	58159
+Persons	2025	50 - 54 years	Mid-East	Male	Number	28843
+Persons	2025	50 - 54 years	Mid-East	Female	Number	29316
+Persons	2025	50 - 54 years	Midland	Both sexes	Number	23162
+Persons	2025	50 - 54 years	Midland	Male	Number	11577
+Persons	2025	50 - 54 years	Midland	Female	Number	11585
+Persons	2025	50 - 54 years	Mid-West	Both sexes	Number	36554
+Persons	2025	50 - 54 years	Mid-West	Male	Number	18034
+Persons	2025	50 - 54 years	Mid-West	Female	Number	18520
+Persons	2025	50 - 54 years	South-East	Both sexes	Number	33454
+Persons	2025	50 - 54 years	South-East	Male	Number	16242
+Persons	2025	50 - 54 years	South-East	Female	Number	17212
+Persons	2025	50 - 54 years	South-West	Both sexes	Number	53827
+Persons	2025	50 - 54 years	South-West	Male	Number	26870
+Persons	2025	50 - 54 years	South-West	Female	Number	26957
+Persons	2025	50 - 54 years	West	Both sexes	Number	34537
+Persons	2025	50 - 54 years	West	Male	Number	17248
+Persons	2025	50 - 54 years	West	Female	Number	17289
+Persons	2025	50 - 54 years	Ireland	Both sexes	Number	369747
+Persons	2025	50 - 54 years	Ireland	Male	Number	183153
+Persons	2025	50 - 54 years	Ireland	Female	Number	186594
+Persons	2025	55 - 59 years	Border	Both sexes	Number	28234
+Persons	2025	55 - 59 years	Border	Male	Number	14015
+Persons	2025	55 - 59 years	Border	Female	Number	14219
+Persons	2025	55 - 59 years	Dublin	Both sexes	Number	84078
+Persons	2025	55 - 59 years	Dublin	Male	Number	41048
+Persons	2025	55 - 59 years	Dublin	Female	Number	43030
+Persons	2025	55 - 59 years	Mid-East	Both sexes	Number	49124
+Persons	2025	55 - 59 years	Mid-East	Male	Number	24520
+Persons	2025	55 - 59 years	Mid-East	Female	Number	24604
+Persons	2025	55 - 59 years	Midland	Both sexes	Number	20612
+Persons	2025	55 - 59 years	Midland	Male	Number	10306
+Persons	2025	55 - 59 years	Midland	Female	Number	10306
+Persons	2025	55 - 59 years	Mid-West	Both sexes	Number	33356
+Persons	2025	55 - 59 years	Mid-West	Male	Number	16645
+Persons	2025	55 - 59 years	Mid-West	Female	Number	16711
+Persons	2025	55 - 59 years	South-East	Both sexes	Number	30783
+Persons	2025	55 - 59 years	South-East	Male	Number	15085
+Persons	2025	55 - 59 years	South-East	Female	Number	15698
+Persons	2025	55 - 59 years	South-West	Both sexes	Number	48305
+Persons	2025	55 - 59 years	South-West	Male	Number	23877
+Persons	2025	55 - 59 years	South-West	Female	Number	24428
+Persons	2025	55 - 59 years	West	Both sexes	Number	31352
+Persons	2025	55 - 59 years	West	Male	Number	15735
+Persons	2025	55 - 59 years	West	Female	Number	15617
+Persons	2025	55 - 59 years	Ireland	Both sexes	Number	325844
+Persons	2025	55 - 59 years	Ireland	Male	Number	161231
+Persons	2025	55 - 59 years	Ireland	Female	Number	164613
+Persons	2025	60 - 64 years	Border	Both sexes	Number	26414
+Persons	2025	60 - 64 years	Border	Male	Number	12977
+Persons	2025	60 - 64 years	Border	Female	Number	13437
+Persons	2025	60 - 64 years	Dublin	Both sexes	Number	77382
+Persons	2025	60 - 64 years	Dublin	Male	Number	37123
+Persons	2025	60 - 64 years	Dublin	Female	Number	40259
+Persons	2025	60 - 64 years	Mid-East	Both sexes	Number	42444
+Persons	2025	60 - 64 years	Mid-East	Male	Number	21101
+Persons	2025	60 - 64 years	Mid-East	Female	Number	21343
+Persons	2025	60 - 64 years	Midland	Both sexes	Number	18982
+Persons	2025	60 - 64 years	Midland	Male	Number	9564
+Persons	2025	60 - 64 years	Midland	Female	Number	9418
+Persons	2025	60 - 64 years	Mid-West	Both sexes	Number	31190
+Persons	2025	60 - 64 years	Mid-West	Male	Number	15417
+Persons	2025	60 - 64 years	Mid-West	Female	Number	15773
+Persons	2025	60 - 64 years	South-East	Both sexes	Number	28944
+Persons	2025	60 - 64 years	South-East	Male	Number	13833
+Persons	2025	60 - 64 years	South-East	Female	Number	15111
+Persons	2025	60 - 64 years	South-West	Both sexes	Number	45438
+Persons	2025	60 - 64 years	South-West	Male	Number	22478
+Persons	2025	60 - 64 years	South-West	Female	Number	22960
+Persons	2025	60 - 64 years	West	Both sexes	Number	29577
+Persons	2025	60 - 64 years	West	Male	Number	14838
+Persons	2025	60 - 64 years	West	Female	Number	14739
+Persons	2025	60 - 64 years	Ireland	Both sexes	Number	300371
+Persons	2025	60 - 64 years	Ireland	Male	Number	147331
+Persons	2025	60 - 64 years	Ireland	Female	Number	153040
+Persons	2025	65 - 69 years	Border	Both sexes	Number	23270
+Persons	2025	65 - 69 years	Border	Male	Number	11508
+Persons	2025	65 - 69 years	Border	Female	Number	11762
+Persons	2025	65 - 69 years	Dublin	Both sexes	Number	63510
+Persons	2025	65 - 69 years	Dublin	Male	Number	30105
+Persons	2025	65 - 69 years	Dublin	Female	Number	33405
+Persons	2025	65 - 69 years	Mid-East	Both sexes	Number	34619
+Persons	2025	65 - 69 years	Mid-East	Male	Number	16886
+Persons	2025	65 - 69 years	Mid-East	Female	Number	17733
+Persons	2025	65 - 69 years	Midland	Both sexes	Number	15856
+Persons	2025	65 - 69 years	Midland	Male	Number	7887
+Persons	2025	65 - 69 years	Midland	Female	Number	7969
+Persons	2025	65 - 69 years	Mid-West	Both sexes	Number	27705
+Persons	2025	65 - 69 years	Mid-West	Male	Number	13874
+Persons	2025	65 - 69 years	Mid-West	Female	Number	13831
+Persons	2025	65 - 69 years	South-East	Both sexes	Number	24360
+Persons	2025	65 - 69 years	South-East	Male	Number	12027
+Persons	2025	65 - 69 years	South-East	Female	Number	12333
+Persons	2025	65 - 69 years	South-West	Both sexes	Number	39035
+Persons	2025	65 - 69 years	South-West	Male	Number	19217
+Persons	2025	65 - 69 years	South-West	Female	Number	19818
+Persons	2025	65 - 69 years	West	Both sexes	Number	26675
+Persons	2025	65 - 69 years	West	Male	Number	13112
+Persons	2025	65 - 69 years	West	Female	Number	13563
+Persons	2025	65 - 69 years	Ireland	Both sexes	Number	255030
+Persons	2025	65 - 69 years	Ireland	Male	Number	124616
+Persons	2025	65 - 69 years	Ireland	Female	Number	130414
+Persons	2025	70 - 74 years	Border	Both sexes	Number	20193
+Persons	2025	70 - 74 years	Border	Male	Number	10053
+Persons	2025	70 - 74 years	Border	Female	Number	10140
+Persons	2025	70 - 74 years	Dublin	Both sexes	Number	53699
+Persons	2025	70 - 74 years	Dublin	Male	Number	25030
+Persons	2025	70 - 74 years	Dublin	Female	Number	28669
+Persons	2025	70 - 74 years	Mid-East	Both sexes	Number	29353
+Persons	2025	70 - 74 years	Mid-East	Male	Number	14279
+Persons	2025	70 - 74 years	Mid-East	Female	Number	15074
+Persons	2025	70 - 74 years	Midland	Both sexes	Number	13341
+Persons	2025	70 - 74 years	Midland	Male	Number	6674
+Persons	2025	70 - 74 years	Midland	Female	Number	6667
+Persons	2025	70 - 74 years	Mid-West	Both sexes	Number	24015
+Persons	2025	70 - 74 years	Mid-West	Male	Number	12002
+Persons	2025	70 - 74 years	Mid-West	Female	Number	12013
+Persons	2025	70 - 74 years	South-East	Both sexes	Number	20937
+Persons	2025	70 - 74 years	South-East	Male	Number	10382
+Persons	2025	70 - 74 years	South-East	Female	Number	10555
+Persons	2025	70 - 74 years	South-West	Both sexes	Number	33510
+Persons	2025	70 - 74 years	South-West	Male	Number	16491
+Persons	2025	70 - 74 years	South-West	Female	Number	17019
+Persons	2025	70 - 74 years	West	Both sexes	Number	23379
+Persons	2025	70 - 74 years	West	Male	Number	11516
+Persons	2025	70 - 74 years	West	Female	Number	11863
+Persons	2025	70 - 74 years	Ireland	Both sexes	Number	218427
+Persons	2025	70 - 74 years	Ireland	Male	Number	106427
+Persons	2025	70 - 74 years	Ireland	Female	Number	112000
+Persons	2025	75 - 79 years	Border	Both sexes	Number	15897
+Persons	2025	75 - 79 years	Border	Male	Number	7812
+Persons	2025	75 - 79 years	Border	Female	Number	8085
+Persons	2025	75 - 79 years	Dublin	Both sexes	Number	43048
+Persons	2025	75 - 79 years	Dublin	Male	Number	19714
+Persons	2025	75 - 79 years	Dublin	Female	Number	23334
+Persons	2025	75 - 79 years	Mid-East	Both sexes	Number	23292
+Persons	2025	75 - 79 years	Mid-East	Male	Number	11159
+Persons	2025	75 - 79 years	Mid-East	Female	Number	12133
+Persons	2025	75 - 79 years	Midland	Both sexes	Number	10449
+Persons	2025	75 - 79 years	Midland	Male	Number	5025
+Persons	2025	75 - 79 years	Midland	Female	Number	5424
+Persons	2025	75 - 79 years	Mid-West	Both sexes	Number	19116
+Persons	2025	75 - 79 years	Mid-West	Male	Number	9107
+Persons	2025	75 - 79 years	Mid-West	Female	Number	10009
+Persons	2025	75 - 79 years	South-East	Both sexes	Number	16798
+Persons	2025	75 - 79 years	South-East	Male	Number	8126
+Persons	2025	75 - 79 years	South-East	Female	Number	8672
+Persons	2025	75 - 79 years	South-West	Both sexes	Number	27103
+Persons	2025	75 - 79 years	South-West	Male	Number	13208
+Persons	2025	75 - 79 years	South-West	Female	Number	13895
+Persons	2025	75 - 79 years	West	Both sexes	Number	18218
+Persons	2025	75 - 79 years	West	Male	Number	9046
+Persons	2025	75 - 79 years	West	Female	Number	9172
+Persons	2025	75 - 79 years	Ireland	Both sexes	Number	173921
+Persons	2025	75 - 79 years	Ireland	Male	Number	83197
+Persons	2025	75 - 79 years	Ireland	Female	Number	90724
+Persons	2025	80 - 84 years	Border	Both sexes	Number	9994
+Persons	2025	80 - 84 years	Border	Male	Number	4794
+Persons	2025	80 - 84 years	Border	Female	Number	5200
+Persons	2025	80 - 84 years	Dublin	Both sexes	Number	28573
+Persons	2025	80 - 84 years	Dublin	Male	Number	12447
+Persons	2025	80 - 84 years	Dublin	Female	Number	16126
+Persons	2025	80 - 84 years	Mid-East	Both sexes	Number	14434
+Persons	2025	80 - 84 years	Mid-East	Male	Number	6676
+Persons	2025	80 - 84 years	Mid-East	Female	Number	7758
+Persons	2025	80 - 84 years	Midland	Both sexes	Number	6462
+Persons	2025	80 - 84 years	Midland	Male	Number	2994
+Persons	2025	80 - 84 years	Midland	Female	Number	3468
+Persons	2025	80 - 84 years	Mid-West	Both sexes	Number	12107
+Persons	2025	80 - 84 years	Mid-West	Male	Number	5625
+Persons	2025	80 - 84 years	Mid-West	Female	Number	6482
+Persons	2025	80 - 84 years	South-East	Both sexes	Number	10884
+Persons	2025	80 - 84 years	South-East	Male	Number	5117
+Persons	2025	80 - 84 years	South-East	Female	Number	5767
+Persons	2025	80 - 84 years	South-West	Both sexes	Number	17165
+Persons	2025	80 - 84 years	South-West	Male	Number	7813
+Persons	2025	80 - 84 years	South-West	Female	Number	9352
+Persons	2025	80 - 84 years	West	Both sexes	Number	11553
+Persons	2025	80 - 84 years	West	Male	Number	5427
+Persons	2025	80 - 84 years	West	Female	Number	6126
+Persons	2025	80 - 84 years	Ireland	Both sexes	Number	111172
+Persons	2025	80 - 84 years	Ireland	Male	Number	50893
+Persons	2025	80 - 84 years	Ireland	Female	Number	60279
+Persons	2025	85 years and over	Border	Both sexes	Number	8139
+Persons	2025	85 years and over	Border	Male	Number	3299
+Persons	2025	85 years and over	Border	Female	Number	4840
+Persons	2025	85 years and over	Dublin	Both sexes	Number	26852
+Persons	2025	85 years and over	Dublin	Male	Number	9799
+Persons	2025	85 years and over	Dublin	Female	Number	17053
+Persons	2025	85 years and over	Mid-East	Both sexes	Number	11027
+Persons	2025	85 years and over	Mid-East	Male	Number	4385
+Persons	2025	85 years and over	Mid-East	Female	Number	6642
+Persons	2025	85 years and over	Midland	Both sexes	Number	5223
+Persons	2025	85 years and over	Midland	Male	Number	2132
+Persons	2025	85 years and over	Midland	Female	Number	3091
+Persons	2025	85 years and over	Mid-West	Both sexes	Number	9929
+Persons	2025	85 years and over	Mid-West	Male	Number	4026
+Persons	2025	85 years and over	Mid-West	Female	Number	5903
+Persons	2025	85 years and over	South-East	Both sexes	Number	8792
+Persons	2025	85 years and over	South-East	Male	Number	3485
+Persons	2025	85 years and over	South-East	Female	Number	5307
+Persons	2025	85 years and over	South-West	Both sexes	Number	14686
+Persons	2025	85 years and over	South-West	Male	Number	5973
+Persons	2025	85 years and over	South-West	Female	Number	8713
+Persons	2025	85 years and over	West	Both sexes	Number	10357
+Persons	2025	85 years and over	West	Male	Number	4061
+Persons	2025	85 years and over	West	Female	Number	6296
+Persons	2025	85 years and over	Ireland	Both sexes	Number	95005
+Persons	2025	85 years and over	Ireland	Male	Number	37160
+Persons	2025	85 years and over	Ireland	Female	Number	57845
